@@ -1,0 +1,1041 @@
+order_id,customer_id,customer_name,email,order_date,country,category,product,unit_price,quantity,discount,total_amount,payment_method,order_status,rating
+ORD-10309,C306,aarav wilson,aarav.wilson26@outlook.com,04.05.26,INDIA,Home & Kitchen,Coffee Maker,59.00,1,,59.0,Credit Card,canceled,4.5
+ORD-10084,C400,  Liam Singh ,liam.singh27@outlook.com,07-30-2026,Germany,Electronics,Bluetooth Speaker,,5,10,177.75,CC,Cancelled,4
+ORD-10007,C116,  Sofia Lee ,sofia.lee86@outlook.com,"Oct 20, 2026",Canada,Home and Kitchen,throw pillow,12.50,5,10%,56.25,UPI,Pending,4
+ORD-10336,C350,Olivia Singh,,2026-01-15,germany,Home & Kitchen,Air Fryer,89.00,2,20%,142.4,Debit Card,SHIPPED,2
+ORD-10890,C394,Mia Kumar,mia.kumar29@gmail.com,"Nov 25, 2025",India,Clothing,Cotton T-Shirt,$15.00,3,0,45.0,Cash on Delivery,delivered,5
+ORD-10036,C225,Chloe Davies,chloe.davies30@gmail.com,2026-03-01,United States,beauty,Lipstick,14.50,1,0%,14.5,Debit Card,Returned,5
+ORD-10188,C179,Olivia Sharma,olivia.sharma37@gmail.com,2026-06-18,india,Sports,Water Bottle,11.00,1,5,10.45,Debit Card,Returned,
+ORD-10002,C135,Emma Smith,emma.smith46@outlook.com,2026-04-22,United States,Home & Kitchen,Coffee Maker,59.00,1,20,47.2,Cash on Delivery,Shipped,
+ORD-10827,C301,Hannah Johnson,hannah.johnson17@gmail.com,2026-05-21,USA,Clothing,Denim Jeans,45.00,1,0%,,Debit Card,Delivered,6
+ORD-10817,,sofia müller,sofia.müller71@mail.com,2026-10-28,United Kingdom,Clothing,Hoodie,38.00,4,20,121.6,Gift Card,SHIPPED,0
+ORD-10142,C294,Noah Singh,noah.singh62@mail.com,06-22-2026,Great Britain,Home & Kitchen,Coffee Maker,59.00,1,5,56.05,Debit Card,canceled,5
+ORD-10965,C315,Chloe Lee,chloe.lee59@yahoo.com,2026-05-14,UK,Clothing,Running Shoes,70.00,4,,238.0,CC,Shipped,5
+ORD-10404,C343,Hannah Wilson,,2026-10-29,India,Beauty,Lipstick,14.50,2,10%,26.1,UPI,Shipped,N/A
+ORD-10587,C364,Lukas Patel,lukas.patel18@gmail.com,01-22-2026,Germany,Home & Kitchen,Throw Pillow,12.50,5,0%,62.5,Credit Card,Shipped,2
+ORD-10486,C242,priya wilson,priya.wilson68@yahoo.com,2026-07-31,United States,Sports,Water Bottle,11.00,2,20,17.6,paypal,Pending,5
+ORD-10797,C135,Chloe Patel,chloe.patel21@yahoo.com,03/05/2026,DE,Home & Kitchen,Coffee Maker,59.00,1,20%,47.2,credit card,delivered,2
+ORD-10424,C327,liam smith,liam.smith66yahoo.com,2026-03-23,United States,Home & Kitchen,Air Fryer,$89.00,4,15%,302.6,Cash on Delivery,Shipped,
+ORD-10413,C272,NOAH SMITH,noah.smith79@mail.com,16.05.26,Germany,beauty,Face Serum,24.00,1,,21.6,UPI,Delivered,1
+ORD-10306,C133,  Olivia Davies ,olivia.davies6@yahoo.com,2026-09-03,India,Sport,Dumbbell Set,55.00,2,0,110.0,Gift Card,delivered,2
+ORD-10916,C230,Ananya Sharma,ananya.sharma15@yahoo.com,2026-09-11,INDIA,Clothes,Cotton T-Shirt,15.00,1,15,12.75,Cash on Delivery,delivered,4
+ORD-10470,C313,Chloe Kumar,chloe.kumar93@outlook.com,2026-07-01,India,Sports,Water Bottle,11.00 USD,1,10,9.9,Credit Card,SHIPPED,5
+ORD-10891,C109,Rohan Brown,rohan.brown39@outlook.com,"May 19, 2026",DE,Clothing,Running Shoes,70.00,1,0%,70.0,Gift Card,Delivered,4
+ORD-10489,C223,Hannah Brown,hannah.brown6@mail.com,"Apr 24, 2026",IN, Clothing,Cotton T-Shirt,15.00,4,20%,48.0,paypal,SHIPPED,
+ORD-10641,C150,Hannah Kumar,hannah.kumar68@mail.com,2026-10-08,United Kingdom,Electronics,USB-C Charger,19.99,1,0,19.99,Credit Card,Cancelled,6
+ORD-10792,C390,Hannah Patel,hannah.patel1gmail.com,,Canada,Clothing,Cotton T-Shirt,15.00,1,0%,17.57,paypal,Pending,
+ORD-10051,C389,Priya Lee,priya.lee83@yahoo.com,28/04/2026,UK,Sports,Water Bottle,11.00,1,20,8.8,credit card,delivered,6
+ORD-10799,C314,Mia Lee,mia.lee64@mail.com,0000-00-00,INDIA,Home & Kitchen,Air Fryer,89.00,1,15,75.65,Credit Card,Shipped,3
+ORD-10495,C382,Mia Johnson,mia.johnson36@gmail.com,N/A,UK,Home & Kitchen,Coffee Maker,59.00 USD,1,0,59.0,Gift Card,SHIPPED,5
+ORD-10087,C349,AARAV WILSON,aarav.wilson10@gmail.com,2026-09-25,Deutschland,Clothing,Hoodie,$38.00,1,10,34.2,paypal,Delivered,
+ORD-10019,C240,Priya Taylor,priya.taylor93@mail.com,2026-09-01,Canada,Clothing,Hoodie,38.00,2,10,68.4,UPI,Pending,5
+ORD-10026,C198,  Ethan Patel ,ethan.patel75@outlook.com,2026-05-27,CA,Beauty,Face Serum,24.00,1,0,24.0,Gift Card,Pending,6
+ORD-11000,C158,  Aarav Sharma ,aarav.sharma29@mail.com,27/02/2026,United Kingdom,Electronics,USB-C Charger,19.99,1,10%,17.99,Credit Card,SHIPPED,0
+ORD-10927,C378,Noah Wilson,noah.wilson43@outlook.com,2026-02-11,United Kingdom, Clothing,running shoes,$70.00,1,20,56.0,CC,Shipped,
+ORD-10570,C400,,guest66@outlook.com,"Jul 01, 2026",Germany,Beauty,Shampoo,9.99,2,15%,16.98,CC,Returned,1
+ORD-10260,C260,Chloe Davies,chloe.davies51@yahoo.com,2026-05-06,Canada,Sports,Dumbbell Set,55.00,3,5,156.75,paypal,Cancelled,4
+ORD-10647,C166,Aarav Patel,,2026-10-02,,home & kitchen,throw pillow,$12.50,3,0,37.5,PayPal,Returned,5
+ORD-10343,C144,Aarav Lee,aarav.lee48@yahoo.com,17.03.26,Germany,Clothing,Denim Jeans,45.00,1,15%,38.25,credit card,Shipped,4.5
+ORD-10132,,Ananya Patel,ananya.patel83@yahoo.com,2026-08-20,India,Home & Kitchen,Air Fryer,89.00,1,0,89.0,Cash on Delivery,Pending,6
+ORD-10045,C230,ROHAN SINGH,rohan.singh90@gmail.com,2026-07-17,Canada,Beauty,Lipstick,14.50,2,5,2755.0,CC,Shipped,5
+ORD-10969,C126,olivia davies,olivia.davies8@yahoo.com,2025-12-29,India,Home & Kitchen,Coffee Maker,59.00,3,5,282.36,UPI,Shipped,1
+ORD-10233,C144,  Rohan Sharma ,rohan.sharma15@mail.com,2026-10-21,United Kingdom,Home & Kitchen,Coffee Maker,59.00 USD,1,0,59.0,UPI,canceled,
+ORD-10061,C142,Priya Sharma,,03-27-2026,India,Home & Kitchen,air fryer,89.00,3,0%,267.0,Debit Card,Pending,6
+ORD-10315,C337,EMMA MÜLLER,emma.müller14@outlook.com,2026-08-11,Great Britain,Electronics ,usb-c charger,19.99,4,5,49.3,Gift Card,Cancelled,3
+ORD-10776,C293,Priya Müller,priya.müller15@gmail.com,2026-02-04,United Kingdom,beauty,Face Serum,24.00,2,10,30.5,UPI,Pending,
+ORD-10403,C255,Noah Sharma,noah.sharma46@yahoo.com,23.06.26,Canada,Home & Kitchen,coffee maker,59.00,1,15,50.15,CC,SHIPPED,4
+ORD-10270,C291,Jack Johnson,jack.johnson35@yahoo.com,01/02/2026,United States,Home & Kitchen,Air Fryer,$89.00,1,0,123.33,credit card,Returned,N/A
+ORD-10651,C217,Mia Smith,mia.smith86@outlook.com,2025-11-07,United Kingdom,CLOTHING,Hoodie,38.00,2,,68.4,Cash on Delivery,delivered,4
+ORD-10234,C331,Sofia Müller,sofia.müller29@yahoo.com,2026-03-07,United States,Beauty,Shampoo,9.99,1,5,9.49,Credit Card,SHIPPED,0
+ORD-10859,C318,Mia Singh,mia.singh86@mail.com,2026-09-10,UK,Clothing,Hoodie,38.00,two,10%,34.2,PayPal,Pending,
+ORD-10658,C147,Lukas Müller,lukas.müller95@yahoo.com,"Jan 01, 2026",Germany,Home & Kitchen,Knife Set,34.99,2,0%,69.98,UPI,SHIPPED,5
+ORD-10057,,Noah Taylor,,22.01.26,United Kingdom,Sports,Yoga Mat,22.00,1,20,NULL,credit card,Returned,4
+ORD-10342,C306,ROHAN TAYLOR,rohan.taylor45@outlook.com,2026-04-06,canada,Electronics,Wireless Earbuds,49.99,1,15,42.49,Credit Card,Returned,
+ORD-10398,C323,Noah Johnson,noah.johnson87@outlook.com,2026-09-02,United Kingdom,BEAUTY,Face Serum,,4,0%,96.0,credit card,delivered,3
+ORD-10517,,Hannah Sharma,hannah.sharma22@gmail.com,25/07/2026,IN,Home & Kitchen,Knife Set,34.99,1,0,57.16,UPI,canceled,
+ORD-10208,C150,mia brown,mia.brown48@gmail.com,"Feb 19, 2026",,Clothing,Running Shoes,70.00,1,0,70.0,Debit Card,Cancelled,6
+ORD-10339,C280,NOAH SHARMA,noah.sharma16@outlook.com,15/08/2026,canada,SPORTS ,Yoga Mat,22.00,2,0,44.0,PayPal,Delivered,5
+ORD-10731,C175,  Priya Patel ,priya.patel91@mail.com,07-24-2026,Germany,Beauty,Face Serum,$24.00,-1,0,24.0,Credit Card,Delivered,5
+ORD-10293,C185,Mia Patel,mia.patel19@outlook.com,2026-09-22,United Kingdom,Home & Kitchen,Throw Pillow,12.50,1,20%,10.0,CC,Pending,4
+ORD-10164,C394,Jack Sharma,jack.sharma87@mail.com,2026-08-04,India,Electronics,Bluetooth Speaker,39.50,2,10,71.1,CC,Cancelled,6
+ORD-10090,C277,Liam Lee,liam.lee10@outlook.com,2026-08-28,United Kingdom,Clothing,Running Shoes,70.00,1,0,70.0,PayPal,delivered,2
+ORD-10808,C374,Olivia Sharma,olivia.sharma66@gmail.com,2025-12-25,Germany,Clothing,Hoodie,38.00,1,5,36.1,UPI,Delivered,5
+ORD-10006,C372,Hannah Sharma,,07-30-2026,India,Clothing,Running Shoes,$70.00,3,10,189.0,CC,Returned,2
+ORD-10910,C132,Ananya Johnson,ananya.johnson63@mail.com,08-26-2026,India,beauty,Lipstick,14.50,2,0,21.24,Cash on Delivery,Pending,6
+ORD-10991,C158,Liam Davies,liam.davies96@gmail.com,06-07-2026,Deutschland,Clothes,Denim Jeans,45.00,2,20,72.0,Gift Card,canceled,5
+ORD-10452,C377,Noah Patel,noah.patel79@mail.com,2026-08-30,germany,Electronics,Smart Watch,$129.00,4,15,438.6,paypal,Delivered,6
+ORD-10235,C100,Emma Sharma,emma.sharma40@yahoo.com,"Sep 28, 2026",,Clothing,denim jeans,45.00,1,0,45.0,credit card,Delivered,5
+ORD-10514,C181,  Priya Smith ,priya.smith46@yahoo.com,28.11.25,UK,Electronics,Wireless Earbuds,49.99,1,0,49.99,paypal,Shipped,2
+ORD-10271,C244,Lukas Taylor,lukas.taylor35@gmail.com,2026-10-04,United States,Electronics,wireless earbuds,49.99,1,15,42.49,PayPal,SHIPPED,1
+ORD-10312,,Liam Smith,liam.smith23@gmail.com,2025-12-18,Canada,home & kitchen,Throw Pillow,12.50,2,0,,paypal,Returned,
+ORD-10614,C293,Emma Johnson,emma.johnson73@mail.com,2026-10-06,Canada,Home & Kitchen,Air Fryer,89.00,4,5%,33820.0,UPI,Delivered,
+ORD-10090,C277,Liam Lee,liam.lee10@outlook.com,2026-08-28,United Kingdom,Clothing,Running Shoes,70.00,1,0,70.0,PayPal,delivered,2
+ORD-10786,C135,Lukas Smith,lukas.smith64@yahoo.com,2026-07-19,United States,Clothing,hoodie,38.00,2,15,64.6,Cash on Delivery,Pending,
+ORD-10793,C142,liam patel,liam.patel64@yahoo.com,18.09.26,Canada,Electronics,Wireless Earbuds,49.99,1,,39.99,Gift Card,SHIPPED,5
+ORD-10701,C389,Sofia Lee,sofia.lee1@yahoo.com,2026-01-22,Great Britain,Beuty,Face Serum,24.00,1,0%,24.0,PayPal,SHIPPED,1
+ORD-10310,C104,ethan lee,ethan.lee30@mail.com,2026-02-25,germany,SPORTS ,Yoga Mat,22.00,3,,66.0,credit card,delivered,4.5
+ORD-10443,C197,HANNAH TAYLOR,hannah.taylor12@yahoo.com,08-17-2026,Great Britain,Beauty,Lipstick,14.50,3,0,43.5,Cash on Delivery,Delivered,4
+ORD-10905,C132,Jack Taylor,jack.taylor50@yahoo.com,2026-05-16,India,Beauty,Face Serum,24.00,1,20,19.2,Debit Card,Returned,
+ORD-10736,C319,ANANYA PATEL,ananya.patel3@yahoo.com,09-16-2026,Canada,Clothing,Denim Jeans,45.00,2,0%,,Credit Card,canceled,0
+ORD-10823,C213,Ethan Kumar,,2026-09-12,canada,Home & Kitchen,knife set,34.99,1,0,34.99,paypal,Delivered,2
+ORD-10956,C343,emma patel,emma.patel80@outlook.com,2025-11-27,United States,Beauty,Shampoo,9.99,2,20,15.98,Credit Card,Delivered,4
+ORD-10334,C181,Noah Lee,noah.lee8@outlook.com,2026-13-45,United Kingdom,SPORTS ,Dumbbell Set,$55.00,2,0%,110.0,CC,delivered,4.5
+ORD-10463,C256,,guest58@outlook.com,2026-04-01,canada,Beauty,Face Serum,24.00,3,0,72.0,Cash on Delivery,Returned,3
+ORD-10374,C107,Noah Wilson,noah.wilson58@yahoo.com,2026-05-28,canada,Home&Kitchen,Air Fryer,89.00,3,15,226.95,Cash on Delivery,Pending,N/A
+ORD-10988,C146,Hannah Davies,hannah.davies54@mail.com,04/01/2026,United States,sports,Water Bottle,11.00,2,20,17.6,Credit Card,Returned,5
+ORD-10325,C254,  Liam Brown ,liam.brown75yahoo.com,2026-10-15,United States,Electronics,USB-C Charger,19.99,1,5,18.99,paypal,Pending,4.5
+ORD-10762,C218,  Chloe Davies ,chloe.davies4@outlook.com,2026-09-22,Germany,Sports,Yoga Mat,22.00,1,0%,22.0,CC,Shipped,4.5
+ORD-10531,C278,Ananya Patel,ananya.patel18@outlook.com,02-21-2026,DE,Electronics,USB-C Charger,19.99,1,0%,19.99,credit card,Returned,
+ORD-10804,C182,Mia Wilson,mia.wilson93@gmail.com,03-28-2026,India, Clothing,Running Shoes,70.00,2,20%,112.0,UPI,Pending,1
+ORD-10719,C232,Emma Johnson,emma.johnson46@yahoo.com,07-10-2026,Canada,clothing,Hoodie,38.00,1,0,38.0,credit card,canceled,6
+ORD-10805,C328,ETHAN SINGH,ethan.singh79mail.com,31/12/2025,United Kingdom,Electronics,USB-C Charger,19.99,1,0,,Credit Card,Shipped,0
+ORD-10454,C392,Ananya Smith,ananya.smith93@gmail.com,2026-09-23,,Electronics,USB-C Charger,19.99,2,15,33.98,Gift Card,Cancelled,2
+ORD-10752,C195,Mia Brown,mia.brown14@gmail.com,2026-06-11,Great Britain,Clothes,Hoodie,38.00,1,0,38.0,PayPal,canceled,4
+ORD-10229,C245,Liam Lee,liam.lee22@mail.com,2026-06-01,canada,Home & Kitchen,Air Fryer,89.00,1,0,151.65,CC,Returned,0
+ORD-10065,C137,SOFIA TAYLOR,sofia.taylor71@outlook.com,2026-01-11,canada,Sports,Yoga Mat,22.00,1,0,22.0,credit card,Returned,3
+ORD-10885,C379,jack davies,jack.davies51@mail.com,0000-00-00,Deutschland,Clothing,running shoes,70.00,4,0,280.0,Gift Card,Delivered,1
+ORD-10059,C291,Olivia Sharma,olivia.sharma31@mail.com,2026-03-30,United States,Sports,water bottle,11.00,1,,11.0,PayPal,delivered,1
+ORD-10116,C381,Emma Johnson,emma.johnson39@gmail.com,2026-01-01,INDIA,Clothing,Hoodie,38.00,1,0%,38.98,Debit Card,Shipped,5
+ORD-10272,C149,Emma Sharma,emma.sharma21@mail.com,"May 24, 2026",India,Electronic,Bluetooth Speaker,39.50,1,0,39.5,CC,canceled,3
+ORD-10354,C357,Ethan Singh,ethan.singh69@gmail.com,02-06-2026,Canada,Electronics,Wireless Earbuds,49.99,3,15%,127.47,Cash on Delivery,Cancelled,6
+ORD-10297,C165,sofia sharma,,2026-09-07,India,Home & Kitchen,Throw Pillow,12.50,4,15,,UPI,Pending,3
+ORD-10112,C161,Sofia Sharma,sofia.sharma50@yahoo.com,2025-11-07,United States,Sports,Yoga Mat,22.00,1,20,17.6,Debit Card,Cancelled,2
+ORD-10717,C209,ananya singh,ananya.singh93@gmail.com,24.07.26,United Kingdom,Sports,Dumbbell Set,55.00,1,0,55.0,Debit Card,canceled,4.5
+ORD-10670,C346,OLIVIA SHARMA,olivia.sharma23@outlook.com,12-05-2025,united states,Beauty,Face Serum,24.00,two,10,72.38,Debit Card,Cancelled,
+ORD-10320,C366,Aarav Johnson,aarav.johnson38@yahoo.com,12-11-2025,United Kingdom,Clothing,Hoodie,38.00,3,10,102.6,Cash on Delivery,Delivered,6
+ORD-10311,C300,Ananya Lee,ananya.lee42@gmail.com,2026-05-26,United States,Clothing,Hoodie,38.00,1,20,30.4,CC,Shipped,5
+ORD-10502,C150,Hannah Müller,hannah.müller85@mail.com,"Sep 10, 2026",United States,ELECTRONICS,Bluetooth Speaker,39.50,1,0%,39.5,credit card,SHIPPED,5
+ORD-10546,C377,ANANYA SHARMA,ananya.sharma86@outlook.com,"Jul 20, 2026",USA, Clothing,hoodie,38.00,1,0,3800.0,Debit Card,Returned,5
+ORD-10962,C185,NOAH SINGH,noah.singh31@gmail.com,2026-13-45,Germany, Clothing,Running Shoes,70.00 USD,1,10%,63.0,PayPal,Shipped,
+ORD-10899,C332,AARAV SMITH,aarav.smith76@yahoo.com,02.09.26,United Kingdom,Electronics,Bluetooth Speaker,39.50,1,20,31.6,credit card,Delivered,5
+ORD-10122,C213,Ethan Kumar,ethan.kumar29@yahoo.com,15/08/2026,,Beauty,Lipstick,14.50,1,15,12.32,CC,Returned,5
+ORD-10884,C323,Ethan Patel,,01-07-2026,US,Beauty,Shampoo,9.99,1,0,14.08,Debit Card,Returned,3
+ORD-10971,C212,mia smith,mia.smith18@mail.com,2025-11-13,India,Beauty,Shampoo,9.99,1,15,8.49,PayPal,Delivered,4.5
+ORD-10961,C213,Jack Brown,jack.brown55@mail.com,2026-08-04,,Sports,yoga mat,22.00,1,0,22.0,credit card,Delivered,5
+ORD-10597,C351,ETHAN KUMAR,ethan.kumar20@outlook.com,2026-09-19,United States,Sports,Water Bottle,11.00,1,20,8.8,Debit Card,Returned,
+ORD-10206,C311,Ethan Kumar,ethan.kumar4@yahoo.com,22.05.26,India,Electronics,wireless earbuds,$49.99,2,0%,99.98,Gift Card,Pending,5
+ORD-10825,C188,Ethan Smith,ethan.smith22@gmail.com,"Oct 07, 2026",United States,Electronics,USB-C Charger,19.99,1,0%,19.99,UPI,Cancelled,1
+ORD-10280,C153,,,07-16-2026,United Kingdom,Home & Kitchen,Coffee Maker,59.00,1,20,47.2,CC,canceled,4.5
+ORD-10897,C108,LUKAS KUMAR,lukas.kumar75@outlook.com,14/04/2026,Canada,SPORTS ,Yoga Mat,,1,0,22.0,Debit Card,Cancelled,4.5
+ORD-10477,C294,  Sofia Patel ,sofia.patel55@outlook.com,2026-10-03,,Electronics,Smart Watch,129.00,4,,516.0,UPI,Cancelled,4.5
+ORD-10585,C203,Chloe Patel,chloe.patel90@gmail.com,"Nov 02, 2025",india,Clothing,Running Shoes,70.00 USD,5,10,315.0,paypal,delivered,4
+ORD-10967,C353,Emma Brown,emma.brown61@gmail.com,04/02/2026,Deutschland,Home & Kitchen,Throw Pillow,12.50,4,10,45.0,paypal,SHIPPED,4
+ORD-10775,C249,Emma Patel,emma.patel66@mail.com,2026-06-14,United Kingdom,clothing,Hoodie,38.00,3,0,114.0,credit card,SHIPPED,5
+ORD-10329,C123,Rohan Smith,rohan.smith36@yahoo.com,0000-00-00,Canada,Beauty,Lipstick,14.50,-3,0,43.5,UPI,canceled,N/A
+ORD-10631,C314,priya kumar,priya.kumar5@gmail.com,2026-10-27,United Kingdom,Clothing,Cotton T-Shirt,$15.00,1,20%,12.0,Gift Card,Shipped,
+ORD-10501,C155,Hannah Johnson,hannah.johnson74@yahoo.com,2026-10-16,United Kingdom,Sports,Yoga Mat,22.00,5,0,110.0,Gift Card,Returned,4
+ORD-10709,C244,Rohan Smith,rohan.smith53@yahoo.com,18.10.26,India,Sports,Water Bottle,11.00,1,10%,9.9,Debit Card,delivered,3
+ORD-10409,C200,Hannah Wilson,hannah.wilson17@outlook.com,2025-12-12,USA,Electronics,Bluetooth Speaker,39.50,2,,,Credit Card,canceled,6
+ORD-10523,C238,Olivia Sharma,olivia.sharma41@mail.com,2026-05-17,,Beauty,shampoo,9.99,1,0,999.0,paypal,Returned,5
+ORD-10727,C170,,guest90@yahoo.com,12/11/2025,United States,Electronics,Smart Watch,129.00,3,0,387.0,credit card,Cancelled,
+ORD-10132,,Ananya Patel,ananya.patel83@yahoo.com,2026-08-20,India,Home & Kitchen,Air Fryer,89.00,1,0,89.0,Cash on Delivery,Pending,6
+ORD-10074,C371,  Ananya Johnson ,ananya.johnson37@gmail.com,2026-04-26,Germany,Electronic,Bluetooth Speaker,39.50,4,5%,150.1,PayPal,SHIPPED,4
+ORD-10253,C261,Ananya Taylor,ananya.taylor26@outlook.com,"Jul 25, 2026",Germany,Home & Kitchen,Air Fryer,89.00,-3,15,226.95,Credit Card,Delivered,2
+ORD-10406,C197,Rohan Sharma,rohan.sharma86@gmail.com,"Dec 15, 2025",United Kingdom,Beauty,Lipstick,14.50,3,0%,43.5,CC,delivered,N/A
+ORD-10810,C172,  Jack Taylor ,jack.taylor86mail.com,2026-04-30,Germany,Sports,water bottle,11.00,3,10,29.7,PayPal,SHIPPED,0
+ORD-10518,C360,,guest66@mail.com,"Mar 19, 2026",IN,Beauty,shampoo,9.99,1,15,NULL,Debit Card,Shipped,N/A
+ORD-10159,C181,Chloe Johnson,CHLOE.JOHNSON29@OUTLOOK.COM,2026-06-30,Canada,Electronics,Smart Watch,129.00,2,10,232.2,Debit Card,canceled,
+ORD-10676,C261,Liam Wilson,liam.wilson65@outlook.com,2026-01-03,Germany,Electronics,Smart Watch,129.00,1,10%,116.1,CC,Shipped,1
+ORD-10060,C258,,guest44@yahoo.com,2026-04-20,Germany,Clothes,Cotton T-Shirt,$15.00,3,15,29.04,Gift Card,canceled,1
+ORD-10043,C189,Ananya Johnson,ananya.johnson77@gmail.com,2026-04-18,United Kingdom,Sports,Yoga Mat,$22.00,3,0%,66.0,paypal,Shipped,
+ORD-10756,C275,Lukas Brown,lukas.brown88@outlook.com,2026-10-15,United States,Sports,Water Bottle,11.00,1,15,9.35,Gift Card,Shipped,
+ORD-10566,C377,Noah Taylor,noah.taylor52@gmail.com,2026-07-19,India,Electronics,Bluetooth Speaker,39.50,1,0%,39.5,paypal,SHIPPED,3
+ORD-10324,C317,Olivia Sharma,olivia.sharma16@mail.com,12-07-2025,uk,Beauty,Shampoo,9.99,1,10,8.99,Credit Card,delivered,1
+ORD-10348,C299,Ethan Müller,ethan.müller21@yahoo.com,2026-06-04,IN,Clothing,Running Shoes,70.00,1,5,66.5,Credit Card,Returned,0
+ORD-10881,C238,Sofia Singh,sofia.singh43@outlook.com,2025-11-27,Canada,Beauty,Face Serum,24.00,,0,24.0,paypal,canceled,3
+ORD-10508,C199,Ananya Patel,ananya.patel6@gmail.com,2026-02-05,India,Sport,Yoga Mat,,2,10,39.6,Credit Card,canceled,2
+ORD-10104,C211,Olivia Wilson,olivia.wilson89@outlook.com,N/A,germany,Beauty,Shampoo,$9.99,1,20,7.99,credit card,Pending,6
+ORD-10095,C305,Sofia Taylor,sofia.taylor89@gmail.com,2026-10-29,Germany,Sports,Yoga Mat,22.00,5,5,104.5,paypal,Delivered,
+ORD-10035,C268,Rohan Müller,rohan.müller57@gmail.com,"Jul 16, 2026",germany,Clothing,Hoodie,38.00 USD,5,0,190.0,paypal,delivered,N/A
+ORD-10243,C384,ethan singh,ETHAN.SINGH76@GMAIL.COM,2026-06-06,India,Beauty,Shampoo,$9.99,1,15,8.49,Debit Card,Cancelled,4
+ORD-10549,C260,Rohan Kumar,rohan.kumar74@yahoo.com,16.10.26,United States,Beauty,Lipstick,14.50,2,10,26.1,UPI,Cancelled,
+ORD-10926,C306,Olivia Sharma,olivia.sharma75@gmail.com,24.12.25,United States,Electronics,Smart Watch,129.00,,0,516.0,PayPal,Delivered,5
+ORD-10266,,Rohan Patel,rohan.patel37@yahoo.com,2026-02-14,,Beauty,Shampoo,9.99,1,20%,7.99,paypal,Cancelled,2
+ORD-10559,,Liam Sharma,liam.sharma17@yahoo.com,2026-01-09,India,sports,Water Bottle,11.00,4,5%,74.31,paypal,SHIPPED,3
+ORD-10375,C245,,guest70@mail.com,06-22-2026,india,Sports,Yoga Mat,22.00,2,15,37.4,PayPal,Shipped,N/A
+ORD-10878,C196,liam brown,liam.brown61@yahoo.com,2026-10-01,Great Britain,Beauty,Shampoo,$9.99,2,10%,17.98,Gift Card,Pending,1
+ORD-10493,C285,  Ethan Patel ,ethan.patel40@gmail.com,08-03-2026,United States,Beauty,Face Serum,"24,0",1,10%,21.6,credit card,Delivered,6
+ORD-10119,C151,Priya Kumar,priya.kumar50@outlook.com,2026-07-07,,Beauty,Lipstick,14.50,1,10,13.05,Gift Card,Delivered,4
+ORD-10672,C288,Liam Müller,liam.müller66@yahoo.com,2026-09-22,United States,Beuty,Lipstick,14.50,1,20,15.99,Debit Card,Cancelled,5
+ORD-10803,C227,Noah Kumar,noah.kumar3@mail.com,2026-05-02,India,sports,Water Bottle,$11.00,3,0,33.0,UPI,Pending,
+ORD-10847,C115,Mia Johnson,mia.johnson42@yahoo.com,2026-01-01,United Kingdom,Sports,Water Bottle,$11.00,4,5,41.8,Gift Card,Cancelled,
+ORD-10723,C136,ROHAN DAVIES,rohan.davies93@mail.com,09/11/2025,United Kingdom,Electronics,Smart Watch,129.00,1,0,92.8,PayPal,Returned,3
+ORD-10833,C154,Noah Singh,noah.singh85@yahoo.com,2026-07-19,United Kingdom,Clothing,Hoodie,38.00,3,0,114.0,paypal,Returned,4.5
+ORD-10131,C382,  Jack Sharma ,jack.sharma59@gmail.com,2026-02-11,uk,Sports,Water Bottle,11.00 USD,,0,11.0,Cash on Delivery,Shipped,4.5
+ORD-10522,C280,Emma Müller,emma.müller47@gmail.com,2026-10-12,India,Electronics,Bluetooth Speaker,39.50,1,15,33.57,credit card,SHIPPED,
+ORD-10761,C317,,guest55@mail.com,07-06-2026,india,Sports,Water Bottle,11.00 USD,4,5,41.8,Debit Card,Shipped,3
+ORD-10668,C114,NOAH JOHNSON,noah.johnson40@outlook.com,2026-06-12,India,Beauty,Shampoo,$9.99,1,0,9.99,credit card,delivered,4
+ORD-10704,C165,rohan lee,rohan.lee2@yahoo.com,23/08/2026,USA,Clothing,Cotton T-Shirt,15.00,1,0,15.0,credit card,Cancelled,5
+ORD-10394,C238,Lukas Taylor,lukas.taylor70@outlook.com,21/04/2026,,Clothing,Cotton T-Shirt,15.00,1,20,12.0,Credit Card,Returned,
+ORD-10080,C291,ROHAN SMITH,rohan.smith45@gmail.com,2026-13-45,United States,Beauty,Shampoo,$9.99,3,15,25.47,paypal,SHIPPED,N/A
+ORD-10726,C145,Lukas Brown,lukas.brown92gmail.com,2026-09-24,Germany,Beauty,Shampoo,9.99,5,10,44.96,credit card,SHIPPED,5
+ORD-10537,C175,NOAH MÜLLER,noah.müller48@mail.com,11-25-2025,CA,Sports,Water Bottle,11.00,1,0,11.0,CC,SHIPPED,5
+ORD-10045,C230,ROHAN SINGH,rohan.singh90@gmail.com,2026-07-17,Canada,Beauty,Lipstick,14.50,2,5,2755.0,CC,Shipped,5
+ORD-10563,C178,Lukas Müller,"lukas.müller37@outlook,com",10.09.26,Canada,Electronics,Bluetooth Speaker,39.50,1,20,31.6,CC,Pending,
+ORD-10115,C330,chloe johnson,chloe.johnson34@outlook.com,2026-06-11,Germany,Beauty,Face Serum,24.00,2,0%,48.0,Gift Card,delivered,3
+ORD-10056,C126,sofia wilson,sofia.wilson61@yahoo.com,18/06/2026,Canada,Beauty,Lipstick,14.50,1,15,12.32,Gift Card,Shipped,3
+ORD-10287,C160,Hannah Taylor,HANNAH.TAYLOR54@YAHOO.COM,19/10/2026,United Kingdom,Home & Kitchen,Throw Pillow,12.50,2,5,16.72,PayPal,delivered,
+ORD-10082,C264,Rohan Davies,rohan.davies7@yahoo.com,2026-06-17,Germany,Clothing,Cotton T-Shirt,15.00,1,0,15.0,Gift Card,Cancelled,
+ORD-10355,C266,aarav wilson,aarav.wilson6@yahoo.com,2026-02-23,India,Home & Kitchen,Knife Set,34.99,2,0,66.6,Gift Card,Pending,
+ORD-10353,C185,Liam Patel,liam.patel92@outlook.com,23/11/2025,Canada,Beauty,Face Serum,24.00,2,0%,48.0,Debit Card,Pending,
+ORD-10141,C324,LUKAS SHARMA,lukas.sharma23@gmail.com,0000-00-00,India,Clothing,Hoodie,$38.00,5,0%,190.0,PayPal,delivered,3
+ORD-10527,C199,Priya Müller,priya.müller62@yahoo.com,2025-11-02,India,Electronics,Bluetooth Speaker,,1,15%,33.57,UPI,SHIPPED,4
+ORD-10397,C342,CHLOE SHARMA,chloe.sharma18@outlook.com,30.04.26,Canada,electronics,Bluetooth Speaker,39.50,1,5,37.52,paypal,SHIPPED,4
+ORD-10081,C157,Liam Wilson,liam.wilson17@yahoo.com,2025-12-31,United States,Electronics,USB-C Charger,19.99,2,0%,39.98,Credit Card,Cancelled,4
+ORD-10976,C194,Jack Johnson,jack.johnson46@mail.com,2025-12-06,United States,Beauty,Lipstick,14.50,2,10,26.1,Debit Card,canceled,6
+ORD-10152,C104,ananya wilson,,2025-12-05,United Kingdom,Home & Kitchen,Coffee Maker,59.00,5,10,265.5,UPI,Cancelled,6
+ORD-10730,C392,Priya Wilson,priya.wilson78@mail.com,2026-08-31,United Kingdom,Electronics,usb-c charger,19.99,1,0,19.99,Debit Card,Shipped,2
+ORD-10129,C110,Chloe Taylor,chloe.taylor61@gmail.com,2026-05-16,Deutschland,Sports,Dumbbell Set,55.00,4,,220.0,Cash on Delivery,Pending,4
+ORD-10247,C216,Hannah Sharma,HANNAH.SHARMA40@OUTLOOK.COM,2026-01-07,Germany,Beauty,Shampoo,9.99,4,0%,39.96,PayPal,SHIPPED,4.5
+ORD-10177,C339,MIA SMITH,,0000-00-00,germany,Beauty,Lipstick,14.50 USD,1,,11.6,Debit Card,Returned,5
+ORD-10430,C348,priya wilson,priya.wilson21@mail.com,2026-02-16,UK,Sports,Yoga Mat,,2,,68.21,Credit Card,Cancelled,2
+ORD-10203,C318,Emma Singh,emma.singh21@outlook.com,"Nov 26, 2025",Canada,Sports,water bottle,11.00,1,0%,11.0,CC,Returned,5
+ORD-10198,C226,Sofia Sharma,sofia.sharma2@outlook.com,2026-02-07,United Kingdom,Beauty,Shampoo,$9.99,1,0,9.99,paypal,delivered,5
+ORD-10108,C353,Mia Kumar,mia.kumar78@outlook.com,2026-03-08,United States,Clothing,Denim Jeans,45.00,1,0,,PayPal,Delivered,6
+ORD-10497,C114,Lukas Kumar,"lukas.kumar76@mail,com",11-28-2025,uk,Sport,Yoga Mat,22.00,1,10%,19.8,Debit Card,SHIPPED,4
+ORD-10902,C236,Priya Davies,priya.davies69@gmail.com,2025-12-29,Canada,Clothing,Hoodie,38.00,two,5,72.2,Cash on Delivery,SHIPPED,6
+ORD-10338,C384,Olivia Wilson,"olivia.wilson68@mail,com",2025-11-11,Canada,Sports,Yoga Mat,22.00,1,15,18.7,Credit Card,Returned,0
+ORD-10766,C385,sofia patel,,2025-11-16,United States,Home & Kitchen,Coffee Maker,59.00,1,,53.1,CC,canceled,
+ORD-10934,C115,Jack Johnson,jack.johnson46outlook.com,"Apr 17, 2026",INDIA,Home & Kitchen,Air Fryer,89.00,2,5,169.1,credit card,Cancelled,4
+ORD-10442,C101,Ethan Müller,ethan.müller86@mail.com,2026-08-28,USA,home & kitchen,Knife Set,$34.99,4,0,139.96,PayPal,delivered,4.5
+ORD-10661,C282,Chloe Brown,chloe.brown49@mail.com,26/10/2026,India,Home & Kitchen,Air Fryer,89.00,4,5,338.2,paypal,Pending,5
+ORD-10016,C251,Hannah Wilson,hannah.wilson95@yahoo.com,25/07/2026,United States,Home & Kitchen,Air Fryer,89.00,2,0,178.0,paypal,Returned,5
+ORD-10781,C278,Noah Taylor,noah.taylor33@gmail.com,2026-05-27,United States,Sport,Yoga Mat,,2,0,44.0,Credit Card,Pending,3
+ORD-10021,C113,Hannah Patel,hannah.patel35@mail.com,2026-09-05,Deutschland,Sports,Water Bottle,11.00,2,20,17.6,CC,Returned,
+ORD-10368,C354,Mia Müller,mia.müller17@outlook.com,2026-09-30,Canada,Sports,water bottle,11.00,5,10%,,Cash on Delivery,Shipped,3
+ORD-10703,C145,Chloe Smith,chloe.smith18@yahoo.com,2025-11-28,germany,CLOTHING,Running Shoes,70.00,1,0,70.0,Cash on Delivery,Cancelled,3
+ORD-10711,C104,Priya Kumar,priya.kumar35@mail.com,12/06/2026,Canada,Home & Kitchen,Coffee Maker,59.00,1,0%,59.0,Cash on Delivery,Shipped,1
+ORD-10845,C111,Olivia Taylor,olivia.taylor74@mail.com,"Nov 24, 2025",United Kingdom,Clothing,Running Shoes,70.00,2,20,112.0,Debit Card,Returned,N/A
+ORD-10428,C265,,guest51@yahoo.com,2026-04-13,Germany,Clothing,Hoodie,38.00,,5%,36.1,paypal,canceled,5
+ORD-10407,C180,Chloe Singh,,,canada,Home&Kitchen,Coffee Maker,59.00,3,5,168.15,UPI,Pending,0
+ORD-10004,C124,Sofia Davies,SOFIA.DAVIES83@MAIL.COM,"Apr 11, 2026",Great Britain,Home & Kitchen,Air Fryer,89.00,1,10,80.1,Debit Card,SHIPPED,5
+ORD-10610,C133,Sofia Taylor,sofia.taylor71@yahoo.com,04-02-2026,uk,sports,Dumbbell Set,55.00,3,0,161.49,Debit Card,Delivered,
+ORD-10644,C335,Sofia Sharma,sofia.sharma26@gmail.com,2026-07-20,Deutschland,clothing,Hoodie,38.00 USD,999,20%,30.4,Debit Card,Delivered,2
+ORD-10749,C129,JACK SMITH,jack.smith79@mail.com,2026-10-25,Germany,Beauty,Lipstick,14.50,4,10,52.2,paypal,Delivered,0
+ORD-10716,C184,  Noah Johnson ,,04.12.25,United States,Beauty,Lipstick,14.50,1,0%,14.5,UPI,SHIPPED,0
+ORD-10273,C339,Emma Singh,emma.singh79@yahoo.com,2026-06-05,Deutschland,Beauty,Shampoo,9.99,1,10%,8.99,CC,Pending,
+ORD-10511,C337,ananya brown,ananya.brown59@mail.com,2026-06-10,Canada,Home&Kitchen,Coffee Maker,59.00,1,0,59.0,paypal,Returned,5
+ORD-10515,C399,Chloe Taylor,chloe.taylor36@yahoo.com,10/08/2026,United Kingdom,Sport,Water Bottle,11.00,1,10,9.9,Credit Card,canceled,5
+ORD-10034,C310,Jack Kumar,jack.kumar85@mail.com,2026-04-02,Germany,Sports,Dumbbell Set,55.00,3,0,165.0,paypal,SHIPPED,
+ORD-10503,C370,  Lukas Patel ,lukas.patel81@mail.com,"Jan 09, 2026",germany,Sports,Water Bottle,11.00,1,0,11.0,PayPal,Pending,N/A
+ORD-10052,C392,Noah Brown,noah.brown46@gmail.com,20/09/2026,DE,clothing,Hoodie,38.00,1,5,36.1,CC,Returned,1
+ORD-10923,C253,,guest36@yahoo.com,2026-06-15,United Kingdom,Beauty,Face Serum,24.00,2,0%,48.0,Cash on Delivery,Shipped,
+ORD-10760,C218,LUKAS KUMAR,lukas.kumar98@mail.com,2026-06-10,United States,SPORTS ,Water Bottle,11.00,,0,33.0,Cash on Delivery,Returned,0
+ORD-10904,C375,ethan sharma,ethan.sharma12@outlook.com,2026-02-15,India,Clothes,Cotton T-Shirt,15.00,2,10,27.0,paypal,Delivered,N/A
+ORD-10746,C178,Jack Patel,jack.patel21@gmail.com,"Aug 01, 2026",USA,Sports,Yoga Mat,22.00,1,10%,19.8,Gift Card,canceled,0
+ORD-10813,C329,Hannah Taylor,hannah.taylor99@yahoo.com,22.03.26,Canada,home & kitchen,Air Fryer,89.00,3,20,213.6,PayPal,Returned,
+ORD-10169,C224,aarav brown,aarav.brown65@gmail.com,08-22-2026,canada,Sports,Yoga Mat,22.00,1,5,20.9,CC,canceled,
+ORD-10481,C325,Ethan Johnson,ethan.johnson6@mail.com,2025-11-18,,Electronics,Smart Watch,$129.00,1,5%,122.55,Credit Card,Pending,4.5
+ORD-10963,C126,Ethan Taylor,ethan.taylor50yahoo.com,2026-10-21,CA,sports,Dumbbell Set,55.00,1,0%,55.0,CC,canceled,5
+ORD-10750,C313,Ethan Johnson,ethan.johnson25@mail.com,"Feb 09, 2026",US,Clothes,Cotton T-Shirt,15.00,1,,15.0,Credit Card,Delivered,0
+ORD-10135,C398,Ethan Brown,ethan.brown72@yahoo.com,05/01/2026,India,CLOTHING,Denim Jeans,45.00,1,5,42.75,CC,Cancelled,2
+ORD-10835,C375,Jack Sharma,jack.sharma47@mail.com,25/04/2026,United States,BEAUTY,Face Serum,24.00,1,20,19.2,Cash on Delivery,canceled,5
+ORD-10524,C106,Ethan Taylor,ethan.taylor21@mail.com,N/A,United States,Home & Kitchen,Knife Set,34.99,1,5%,33.24,Cash on Delivery,SHIPPED,4
+ORD-10068,C181,  Priya Lee ,PRIYA.LEE45@MAIL.COM,01-13-2026,India,beauty,Shampoo,9.99,1,10%,8.99,credit card,Cancelled,
+ORD-10814,C289,Emma Müller,emma.müller20@mail.com,07-18-2026,United States,Clothing,Running Shoes,70.00,3,5%,199.5,CC,canceled,0
+ORD-10075,C119,Aarav Wilson,aarav.wilson21@mail.com,10.01.26,Germany,Home & Kitchen,Throw Pillow,12.50,1,20,10.0,Debit Card,Delivered,
+ORD-10191,C320,  Mia Singh ,mia.singh52@mail.com,2025-11-26,United Kingdom,home & kitchen,Air Fryer,89.00,1,15,75.65,PayPal,Shipped,2
+ORD-10062,C286,Noah Taylor,noah.taylor55@yahoo.com,2026-04-01,India,Home & Kitchen,Air Fryer,89.00,1,15,,Debit Card,Delivered,N/A
+ORD-10262,C182,Ethan Müller,ethan.müller88@gmail.com,24.09.26,United Kingdom,Clothing,Running Shoes,70.00,2,0%,140.0,paypal,Delivered,4
+ORD-10557,C147,ETHAN JOHNSON,ethan.johnson90@gmail.com,17/12/2025,Canada,Beauty,Shampoo,9.99,1,0,9.99,Debit Card,Pending,
+ORD-10656,C363,Chloe Kumar,chloe.kumar75@gmail.com,2026-07-22,Germany,Beauty,Face Serum,24.00,1,15,20.4,Debit Card,Shipped,4
+ORD-10684,C306,Emma Taylor,emma.taylor38@gmail.com,10.04.26,United Kingdom,electronics,Bluetooth Speaker,$39.50,1,10,35.55,Debit Card,Returned,
+ORD-10102,C205,Noah Müller,noah.müller12@mail.com,06-19-2026,United States,Electronics,USB-C Charger,19.99,1,0,19.99,Gift Card,Pending,3
+ORD-10630,C138,Chloe Taylor,chloe.taylor50outlook.com,14.11.25,India,Sports,Water Bottle,11.00,-1,0,11.0,CC,canceled,
+ORD-10483,C182,Hannah Brown,hannah.brown17@outlook.com,2026-08-23,United Kingdom,Beuty,lipstick,14.50,2,,26.1,CC,canceled,4.5
+ORD-10204,C281,sofia lee,sofia.lee8@gmail.com,27.07.26,Canada,Electronics,Smart Watch,129.00,1,5%,122.55,CC,canceled,
+ORD-10299,C271,Priya Smith,priya.smith4@yahoo.com,"Feb 08, 2026",Germany,Sport,Dumbbell Set,55.00,1,5%,52.25,CC,Cancelled,
+ORD-10370,C336,  Mia Taylor ,mia.taylor88@gmail.com,31/05/2026,United States,Home & Kitchen,Knife Set,$34.99,1,15%,29.74,CC,canceled,2
+ORD-10873,C316,Jack Johnson,JACK.JOHNSON88@OUTLOOK.COM,2026-01-20,Germany,Home & Kitchen,knife set,34.99,1,5,33.24,CC,Returned,3
+ORD-10542,C114,NOAH WILSON,noah.wilson32@gmail.com,02.07.26,,Electronics,Bluetooth Speaker,39.50,3,0%,79.03,Gift Card,Returned,4.5
+ORD-10513,C261,Ethan Patel,ethan.patel86@yahoo.com,13/11/2025,Canada,Beauty,Lipstick,14.50,1,5,13.77,Gift Card,Delivered,6
+ORD-10657,C248,CHLOE DAVIES,,05.10.26,Canada,Electronics ,Bluetooth Speaker,39.50,1,0%,62.69,PayPal,SHIPPED,
+ORD-10510,C284,Chloe Taylor,chloe.taylor83@mail.com,2025-11-11,Canada, Clothing,Cotton T-Shirt,15.00,2,0,30.0,Debit Card,SHIPPED,3
+ORD-10165,C287,NOAH PATEL,noah.patel96@gmail.com,29/05/2026,United States,Electronic,Smart Watch,129.00,2,10,232.2,paypal,Cancelled,
+ORD-10465,C203,sofia brown,sofia.brown20@outlook.com,2026-04-25,United States,Beauty,shampoo,9.99,1,0,9.99,PayPal,delivered,
+ORD-10202,C175,Mia Sharma,mia.sharma64@yahoo.com,2026-07-14,Germany,Sports,Dumbbell Set,$55.00,1,5%,52.25,Debit Card,Delivered,4
+ORD-10767,C282,Liam Müller,,2026-06-11,India,CLOTHING,Cotton T-Shirt,15.00,1,10,13.5,Cash on Delivery,Pending,
+ORD-10031,C305,Mia Davies,mia.davies36@yahoo.com,06-29-2026,Germany,Sport,Yoga Mat,22.00,3,0%,66.0,CC,Shipped,5
+ORD-10499,C320,Hannah Taylor,,"Sep 29, 2026",Germany,Sports,Yoga Mat,22.00,3,0%,6600.0,Debit Card,Pending,5
+ORD-10986,C185,hannah singh,hannah.singh24@gmail.com,11-17-2025,uk,Home & Kitchen,Coffee Maker,59.00 USD,2,15,100.3,PayPal,Returned,0
+ORD-10769,C364,Lukas Patel,lukas.patel69@yahoo.com,2026-04-24,INDIA,Electronics,Wireless Earbuds,49.99,2,10%,89.98,CC,delivered,0
+ORD-10163,C149,Ananya Kumar,ananya.kumar24@outlook.com,2026-01-13,India, Clothing,Denim Jeans,45.00,3,10%,121.5,Credit Card,Shipped,5
+ORD-10548,C374,Ananya Smith,"ananya.smith4@mail,com",13/07/2026,United States,Clothing,Denim Jeans,$45.00,2,0%,90.0,CC,canceled,5
+ORD-10327,C151,LIAM PATEL,liam.patel24@yahoo.com,2026-02-17,Germany,Clothes,Cotton T-Shirt,$15.00,1,20%,9.66,Credit Card,Delivered,5
+ORD-10820,C219,Jack Taylor,jack.taylor84@mail.com,2025-12-09,United States,CLOTHING,Denim Jeans,45.00 USD,1,0,45.0,PayPal,SHIPPED,5
+ORD-10550,C366,  Chloe Singh ,chloe.singh77@mail.com,2026-07-24,United Kingdom,Home&Kitchen,Knife Set,34.99,1,0,34.99,Cash on Delivery,canceled,6
+ORD-10912,C224,AARAV BROWN,aarav.brown42@outlook.com,2026-10-19,Germany,Sports,Dumbbell Set,$55.00,1,0,5500.0,PayPal,delivered,0
+ORD-10378,C113,Hannah Müller,,2026-05-26,United Kingdom,Clothing,Hoodie,38.00,5,0%,190.0,Debit Card,Delivered,4
+ORD-10931,C358,  Olivia Kumar ,olivia.kumar73@yahoo.com,2026-06-07,United States,Sports,Water Bottle,11.00,4,0,44.0,Debit Card,canceled,5
+ORD-10042,C164,Emma Davies,"emma.davies83@outlook,com",05-05-2026,india,Home & Kitchen,Coffee Maker,$59.00,1,0,,Gift Card,Cancelled,5
+ORD-10290,C396,Sofia Kumar,sofia.kumar97@gmail.com,2025-12-14,CA,SPORTS ,Water Bottle,11.00,1,10%,9.9,credit card,SHIPPED,0
+ORD-10995,C111,Mia Kumar,mia.kumar88@gmail.com,2026-03-02,Germany,Beauty,Face Serum,24.00,1,0,24.0,PayPal,Delivered,3
+ORD-10800,C164,Lukas Lee,lukas.lee81@yahoo.com,"May 07, 2026",India,SPORTS ,Yoga Mat,22.00,1,0,22.0,Debit Card,SHIPPED,5
+ORD-10246,C357,Priya Müller,priya.müller88@outlook.com,2026-08-06,INDIA,Clothes,Cotton T-Shirt,15.00,2,0,30.0,Gift Card,Shipped,2
+ORD-10385,,Emma Smith,emma.smith77@outlook.com,2026-06-04,United Kingdom,Beauty,Shampoo,9.99,1,0,9.99,credit card,Delivered,5
+ORD-10077,C105,Jack Davies,,2026-09-09,USA,Sports,Water Bottle,$11.00,3,0,33.0,UPI,Delivered,
+ORD-10300,C321,Emma Kumar,emma.kumar98@gmail.com,2026-03-02,canada,Home & Kitchen,Air Fryer,89.00,3,10,240.3,Gift Card,Delivered,1
+ORD-10013,C152,Emma Smith,emma.smith89@yahoo.com,2025-11-05,India,Beuty,Lipstick,14.50,2,,26.1,paypal,Returned,N/A
+ORD-10347,C281,Mia Johnson,mia.johnson63@gmail.com,07-29-2026,IN,Electronics,bluetooth speaker,39.50,1,0%,39.5,UPI,Shipped,5
+ORD-10283,C260,Olivia Sharma,olivia.sharma5@yahoo.com,24.01.26,United States,Electronics,smart watch,129.00,1,20,103.2,Cash on Delivery,Returned,4.5
+ORD-10509,,Liam Johnson,,2026-08-13,United States,Electronics,usb-c charger,"19,99",2,0,39.98,paypal,Shipped,4
+ORD-10843,C327,ROHAN SMITH,rohan.smith67@outlook.com,2026-01-25,Germany,Clothing,Hoodie,38.00,1,15,53.92,Gift Card,Cancelled,4
+ORD-10940,C399,Sofia Brown,sofia.brown99@gmail.com,29.01.26,Germany,Clothing,Denim Jeans,45.00,2,0,90.0,CC,SHIPPED,5
+ORD-10565,C366,LUKAS SMITH,lukas.smith59@outlook.com,11/10/2026,India,Electronics,USB-C Charger,19.99,1,0,19.99,UPI,Cancelled,
+ORD-10474,C134,Chloe Singh,chloe.singh63@gmail.com,01-01-2026,United States,Sport,Water Bottle,11.00,4,0,44.0,Gift Card,Shipped,4
+ORD-10732,C393,Sofia Lee,sofia.lee43@mail.com,29/12/2025,Canada,Clothing,Running Shoes,70.00,1,,56.0,Cash on Delivery,delivered,6
+ORD-10547,C215,Liam Patel,liam.patel53@outlook.com,08-17-2026,India,Electronic,Bluetooth Speaker,39.50,,0,79.0,Gift Card,SHIPPED,
+ORD-10364,C316,Liam Johnson,liam.johnson18@outlook.com,02/06/2026,India,electronics,Wireless Earbuds,49.99 USD,2,20%,79.98,Gift Card,Pending,1
+ORD-10734,C398,Ethan Kumar,ethan.kumar95@mail.com,N/A,,Electronics,Wireless Earbuds,49.99,1,15,42.49,PayPal,canceled,4
+ORD-10098,C132,olivia taylor,olivia.taylor52@yahoo.com,14/08/2026,Germany,Sports,Yoga Mat,22.00,2,0%,44.0,Gift Card,Returned,0
+ORD-10642,C301,Lukas Kumar,lukas.kumar88@mail.com,11.08.26,Canada,Clothing,Cotton T-Shirt,15.00,4,0,60.0,Credit Card,Cancelled,4
+ORD-10071,C156,Liam Müller,liam.müller41@yahoo.com,0000-00-00,Canada,Beauty,Lipstick,14.50,1,10,13.05,Credit Card,canceled,5
+ORD-10463,C256,,guest58@outlook.com,2026-04-01,canada,Beauty,Face Serum,24.00,3,0,72.0,Cash on Delivery,Returned,3
+ORD-10850,C370,ANANYA SHARMA,ananya.sharma7@yahoo.com,2026-06-18,india,Sports,Yoga Mat,22.00,1,0,,Gift Card,Returned,3
+ORD-10968,C293,,guest76@yahoo.com,04-08-2026,Germany,Home and Kitchen,Coffee Maker,59.00,3,,177.0,Credit Card,delivered,1
+ORD-10123,C293,Chloe Smith,chloe.smith86@outlook.com,2026-01-25,INDIA,Home & Kitchen,Air Fryer,$89.00,-1,0,89.0,CC,Cancelled,5
+ORD-10147,C240,Hannah Singh,hannah.singh62@yahoo.com,2026-08-11,United Kingdom,Beauty,Face Serum,24.00,2,0,48.0,Cash on Delivery,canceled,0
+ORD-10545,C159,Lukas Singh,,03/05/2026,UK,Electronics,Wireless Earbuds,49.99,1,15%,42.49,Debit Card,Pending,3
+ORD-10192,C143,Priya Kumar,priya.kumar99@outlook.com,2026-04-14,India,Beauty,shampoo,9.99 USD,999,0,9.99,Debit Card,Pending,6
+ORD-10436,C134,Liam Wilson,liam.wilson61@gmail.com,2026-01-09,UK,BEAUTY,Shampoo,"9,99",1,0,,UPI,delivered,5
+ORD-10655,C392,SOFIA DAVIES,sofia.davies60@mail.com,2026-09-24,Germany,Beauty,Lipstick,14.50,2,5%,27.55,Debit Card,delivered,1
+ORD-10254,C293,  Olivia Johnson ,olivia.johnson50@mail.com,10/07/2026,Canada,Clothing,Running Shoes,70.00,4,0,280.0,Cash on Delivery,delivered,5
+ORD-10448,C301,LIAM TAYLOR,liam.taylor19@yahoo.com,22/05/2026,india,Home and Kitchen,Coffee Maker,59.00,3,5,118.9,paypal,canceled,2
+ORD-10284,C361,Ananya Kumar,ananya.kumar90@outlook.com,16/09/2026,Germany,BEAUTY,Shampoo,9.99,2,10,17.98,Debit Card,Delivered,4
+ORD-10906,C113,Chloe Brown,chloe.brown13@yahoo.com,12-07-2025,India,Electronics,Wireless Earbuds,49.99,1,10%,44.99,Debit Card,SHIPPED,6
+ORD-10579,C169,aarav taylor,aarav.taylor74outlook.com,2025-11-22,India,Beauty,Shampoo,9.99,2,0%,19.98,Gift Card,delivered,
+ORD-10161,C312,,guest45@mail.com,02-23-2026,canada,Home&Kitchen,Air Fryer,89.00,2,5%,169.1,CC,canceled,2
+ORD-10504,C122,Chloe Müller,chloe.müller69gmail.com,28.01.26,India,Sports,Water Bottle,11.00,4,10,39.6,Debit Card,Cancelled,
+ORD-10943,C208,Sofia Smith,sofia.smith76@yahoo.com,2025-11-17,India,Clothing,Denim Jeans,"45,0",999,20%,108.0,CC,Shipped,4
+ORD-10201,C192,Rohan Johnson,rohan.johnson49@gmail.com,2026-07-20,India,Home and Kitchen,Air Fryer,"89,0",2,5,169.1,UPI,Delivered,5
+ORD-10581,C377,Ethan Smith,ethan.smith68@gmail.com,03.02.26,United States,Electronics,wireless earbuds,49.99 USD,5,0,226.19,Gift Card,Pending,6
+ORD-10951,C218,Aarav Singh,aarav.singh73@mail.com,04-11-2026,Canada,electronics,Smart Watch,129.00,1,0,129.0,CC,Cancelled,3
+ORD-10941,C215,Aarav Patel,aarav.patel28@yahoo.com,2026-06-20,Canada,Electronics,usb-c charger,"19,99",1,0%,19.99,Debit Card,SHIPPED,3
+ORD-10774,C275,  Priya Smith ,priya.smith55@gmail.com,11.04.26,canada,Sports,Dumbbell Set,$55.00,1,15,46.75,Gift Card,canceled,4
+ORD-10593,C399,JACK SINGH,jack.singh98@yahoo.com,2026-13-45,United Kingdom,Clothing,Running Shoes,"70,0",1,0,70.0,Gift Card,Cancelled,
+ORD-10607,C287,Sofia Kumar,sofia.kumar19@gmail.com,20/01/2026,IN,Beauty,Face Serum,$24.00,1,15,20.4,credit card,Cancelled,0
+ORD-10739,C301,Sofia Wilson,sofia.wilson57@yahoo.com,08-05-2026,Germany,Home & Kitchen,Air Fryer,$89.00,1,15,75.65,Cash on Delivery,Returned,0
+ORD-10834,C187,Rohan Brown,,"Feb 05, 2026",United Kingdom,Home & Kitchen,Throw Pillow,12.50,1,5,11.88,Debit Card,SHIPPED,N/A
+ORD-10998,C295,Sofia Wilson,sofia.wilson68@mail.com,2025-12-21,USA,Home & Kitchen,Knife Set,34.99,1,5,33.24,UPI,Delivered,6
+ORD-10144,C354,,"guest43@outlook,com",01-24-2026,United Kingdom,Sports,dumbbell set,$55.00,3,20,132.0,paypal,SHIPPED,5
+ORD-10414,C243,Ananya Smith,ananya.smith93@outlook.com,11-30-2025,Canada,Home & Kitchen,Throw Pillow,12.50,3,20,30.0,PayPal,Cancelled,3
+ORD-10985,C344,priya taylor,priya.taylor25@outlook.com,27/07/2026,India,Clothing,Running Shoes,70.00,1,0,70.0,credit card,delivered,5
+ORD-10431,C259,chloe singh,chloe.singh95@outlook.com,05-13-2026,,Clothing,Cotton T-Shirt,15.00,1,0%,15.0,Credit Card,Pending,4.5
+ORD-10113,C379,Jack Brown,,06-27-2026,germany,Sports,Yoga Mat,22.00,5,0,110.0,Credit Card,SHIPPED,6
+ORD-10230,C376,Olivia Patel,olivia.patel79@gmail.com,2026-06-19,Germany,Clothing,Denim Jeans,45.00,2,10,81.0,UPI,Pending,2
+ORD-10359,C215,  Mia Lee ,mia.lee70gmail.com,29.11.25,united states,Home & Kitchen,Knife Set,34.99,-1,0%,34.99,PayPal,canceled,5
+ORD-10245,C282,Olivia Brown,olivia.brown61@gmail.com,2026-08-17,CA,Sport,Water Bottle,11.00,1,5,10.45,PayPal,Cancelled,N/A
+ORD-10694,C352,HANNAH SHARMA,hannah.sharma15@outlook.com,2026-10-25,United Kingdom,Electronics,USB-C Charger,19.99,3,20,47.98,UPI,Returned,5
+ORD-10216,C332,LIAM SHARMA,liam.sharma3@yahoo.com,2026-01-04,Germany,Clothes,Running Shoes,70.00,5,15,297.5,CC,SHIPPED,5
+ORD-10226,,chloe patel,chloe.patel6@mail.com,N/A,India,Home & Kitchen,Knife Set,34.99,1,5,33.24,PayPal,Pending,4
+ORD-10737,C167,  Priya Müller ,priya.müller96@gmail.com,2026-09-09,india,beauty,Face Serum,24.00,3,10%,64.8,CC,Shipped,4
+ORD-10400,C259,Emma Müller,emma.müller38@mail.com,09-29-2026,US,Electronics,Wireless Earbuds,49.99,1,20%,39.99,CC,Cancelled,3
+ORD-10671,C345,Hannah Sharma,HANNAH.SHARMA35@MAIL.COM,2026-06-16,Germany,Electronics,USB-C Charger,19.99,2,0%,39.98,paypal,Delivered,4
+ORD-10666,C131,ANANYA DAVIES,ananya.davies16@yahoo.com,2026-04-10,Great Britain,Electronics,Smart Watch,129.00,1,,129.0,Gift Card,SHIPPED,5
+ORD-10564,,  Rohan Singh ,rohan.singh29gmail.com,2025-12-18,United States,Clothing,Denim Jeans,45.00,3,0%,135.0,Cash on Delivery,canceled,4
+ORD-10876,C342,Hannah Smith,hannah.smith25@outlook.com,05-18-2026,Deutschland,Beauty,Lipstick,14.50,1,0,14.5,Cash on Delivery,Cancelled,0
+ORD-10824,C101,Chloe Müller,chloe.müller59@yahoo.com,2026-05-22,India,Clothing,Hoodie,38.00,2,5,116.74,credit card,SHIPPED,5
+ORD-10120,C351,Liam Patel,liam.patel95@outlook.com,2026-01-28,United States,Clothing,hoodie,38.00 USD,1,20,30.4,UPI,Delivered,
+ORD-10462,C207,Ethan Wilson,ethan.wilson57@mail.com,2026-05-24,united states,Beauty,Lipstick,14.50,3,0,43.5,PayPal,canceled,4
+ORD-10379,C142,Olivia Sharma,olivia.sharma17@mail.com,20.08.26,INDIA,Sports,Water Bottle,11.00,2,0,22.0,PayPal,Shipped,N/A
+ORD-10307,C293,Priya Wilson,priya.wilson92@mail.com,31/10/2026,Canada,Beauty,Lipstick,$14.50,1,0%,14.5,credit card,Pending,4
+ORD-10970,C212,Ananya Brown,ananya.brown69@gmail.com,02/11/2025,uk,Sports,Dumbbell Set,55.00,2,15,93.5,PayPal,Cancelled,1
+ORD-10550,C366,  Chloe Singh ,chloe.singh77@mail.com,2026-07-24,United Kingdom,Home&Kitchen,Knife Set,34.99,1,0,34.99,Cash on Delivery,Cancelled,6
+ORD-10133,C241,  Sofia Taylor ,sofia.taylor67@mail.com,10/03/2026,United States,Beauty,Shampoo,9.99,3,5,28.47,Cash on Delivery,Pending,2
+ORD-10305,C173,Jack Brown,jack.brown3@yahoo.com,"Jan 30, 2026",USA,Sport,Yoga Mat,22.00,1,0,22.0,UPI,Cancelled,0
+ORD-10828,C167,Sofia Smith,sofia.smith40@outlook.com,2026-05-25,United States,Electronics,USB-C Charger,19.99,1,5,18.99,UPI,Shipped,6
+ORD-10117,C121,Sofia Singh,sofia.singh81@gmail.com,06.01.26,India,Electronics,wireless earbuds,,3,0,149.97,paypal,delivered,6
+ORD-10145,C158,  Rohan Davies ,rohan.davies66@yahoo.com,2026-09-06,Germany,ELECTRONICS,Wireless Earbuds,49.99,3,20,119.98,Credit Card,delivered,5
+ORD-10156,C381,Rohan Singh,rohan.singh11@outlook.com,2026-08-21,INDIA,ELECTRONICS,USB-C Charger,19.99,1,0%,19.99,Cash on Delivery,Shipped,4.5
+ORD-10622,C131,Hannah Smith,hannah.smith23@outlook.com,2026-03-05,IN,BEAUTY,Face Serum,24.00,4,10,86.4,UPI,SHIPPED,5
+ORD-10358,C143,Rohan Smith,rohan.smith3@gmail.com,2025-11-07,US,Beauty,Face Serum,24.00,2,0%,48.0,CC,Returned,4.5
+ORD-10498,C371,noah müller,NOAH.MÜLLER66@MAIL.COM,2026-10-12,Canada,Clothing,Hoodie,38.00,two,15,32.3,UPI,Cancelled,2
+ORD-10100,C387,Liam Kumar,liam.kumar24@mail.com,2026-09-02,United Kingdom,home & kitchen,Coffee Maker,59.00,2,5,112.1,CC,SHIPPED,4
+ORD-10396,C250,priya kumar,priya.kumar59@outlook.com,2026-10-26,United States,Home & Kitchen,coffee maker,59.00 USD,1,10,53.1,Cash on Delivery,Shipped,4
+ORD-10919,C308,lukas müller,lukas.müller52@outlook.com,2026-03-17,Germany,Sports,Dumbbell Set,55.00,1,0,55.0,Gift Card,delivered,0
+ORD-10836,C166,Jack Sharma,jack.sharma54@gmail.com,2026-05-15,United Kingdom,Electronics,Wireless Earbuds,49.99,4,0,199.96,Gift Card,delivered,5
+ORD-10787,C398,  Ananya Brown ,ananya.brown17@yahoo.com,2026-02-24,,Clothing,Hoodie,,1,0,38.0,CC,canceled,N/A
+ORD-10199,C125,Mia Wilson,mia.wilson91@gmail.com,2026-09-01,Germany,Beauty,Lipstick,14.50,4,,52.2,Cash on Delivery,Pending,6
+ORD-10788,C283,Liam Singh,,12/10/2026,United Kingdom,Clothing,Hoodie,38.00,2,0%,76.0,paypal,Delivered,5
+ORD-10025,C308,Ananya Taylor,ananya.taylor86@mail.com,2026-03-05,Germany,CLOTHING,Cotton T-Shirt,15.00,1,5,24.69,CC,canceled,2
+ORD-10604,C142,Ethan Kumar,ethan.kumar60@gmail.com,19.12.25,Canada,Clothes,Denim Jeans,45.00,3,0,138.87,Gift Card,canceled,1
+ORD-10557,C147,ETHAN JOHNSON,ethan.johnson90@gmail.com,17/12/2025,Canada,Beauty,Shampoo,9.99,1,0,9.99,Debit Card,Pending,
+ORD-10269,C334,Mia Davies,mia.davies57@gmail.com,2026-01-17,US,Beuty,Face Serum,24.00,1,,22.8,Debit Card,Shipped,0
+ORD-10526,C198,Jack Patel,jack.patel61@gmail.com,03-02-2026,United States,Home & Kitchen,Coffee Maker,59.00,2,10,106.2,Debit Card,delivered,2
+ORD-10972,C282,Aarav Kumar,aarav.kumar26@mail.com,06/03/2026,India,Home & Kitchen,Coffee Maker,59.00 USD,2,15,100.3,PayPal,SHIPPED,5
+ORD-10806,C179,Noah Taylor,noah.taylor31@gmail.com,02-16-2026,Germany,Electronics,Smart Watch,129.00,1,0,129.0,Credit Card,Pending,5
+ORD-10458,C357,Noah Johnson,noah.johnson99@mail.com,2026-08-20,India,Beauty,Face Serum,24.00,1,0%,24.0,paypal,canceled,6
+ORD-10076,C231,HANNAH SHARMA,hannah.sharma73@gmail.com,03-29-2026,INDIA,Beauty,shampoo,9.99,1,15,8.49,credit card,Pending,3
+ORD-10681,C367,  Hannah Müller ,hannah.müller12@gmail.com,21/05/2026,,Home & Kitchen,Air Fryer,89.00,1,15,75.65,Gift Card,Cancelled,
+ORD-10832,C377,Emma Müller,emma.müller8@yahoo.com,2026-05-01,Canada,Sports,Water Bottle,11.00,5,5,52.25,paypal,canceled,
+ORD-10880,C117,Ananya Brown,ananya.brown28@yahoo.com,2026-13-45,Germany,sports,Yoga Mat,22.00,1,0%,22.0,CC,Delivered,0
+ORD-10151,C254,Liam Lee,liam.lee49@gmail.com,2026-02-04,canada,Beauty,Face Serum,24.00,5,0%,120.0,credit card,Shipped,1
+ORD-10505,C226,Rohan Davies,rohan.davies6@mail.com,14/02/2026,,home & kitchen,Air Fryer,89.00,2,5,169.1,paypal,Pending,1
+ORD-10480,C291,Priya Kumar,priya.kumar21@mail.com,31.03.26,Canada,Sports,Yoga Mat,"22,0",3,15%,56.1,credit card,Delivered,4
+ORD-10948,C357,Aarav Sharma,aarav.sharma32@mail.com,"Nov 12, 2025",United Kingdom,Home & Kitchen,Coffee Maker,59.00 USD,2,0,118.0,UPI,Returned,5
+ORD-10478,C157,Mia Kumar,mia.kumar16@yahoo.com,29.01.26,United States,Beauty,lipstick,14.50,3,0%,43.5,paypal,SHIPPED,5
+ORD-10386,C152,  Ethan Brown ,ethan.brown97@outlook.com,2026-06-01,Canada,Electronic,bluetooth speaker,39.50,1,20,31.6,Credit Card,Returned,5
+ORD-10964,C236,Rohan Davies,rohan.davies49@outlook.com,2026-08-24,DE,Electronics,Bluetooth Speaker,39.50,4,15,134.3,credit card,Returned,4
+ORD-10654,C230,Sofia Wilson,sofia.wilson71@gmail.com,27/08/2026,Canada,Electronics,Wireless Earbuds,49.99,-2,0%,,Cash on Delivery,canceled,6
+ORD-10950,C242,Noah Müller,noah.müller29@yahoo.com,02-02-2026,India,Home & Kitchen,Air Fryer,89.00,3,5%,253.65,credit card,Shipped,5
+ORD-10457,C375,  Priya Brown ,priya.brown41@mail.com,2026-07-30,USA,Sports,Dumbbell Set,55.00,1,15,46.75,PayPal,Shipped,4
+ORD-10541,C279,Rohan Taylor,rohan.taylor76@gmail.com,14.09.26,United States,Beauty,Shampoo,9.99,1,5,9.49,Credit Card,SHIPPED,
+ORD-10225,C283,Rohan Sharma,rohan.sharma99@mail.com,2026-05-20,Germany,Beauty,Shampoo,9.99,-1,0,9.99,Credit Card,Shipped,
+ORD-10973,C305,Mia Taylor,mia.taylor17@yahoo.com,2025-12-21,United Kingdom,Beauty,Shampoo,9.99,1,20,7.99,paypal,SHIPPED,3
+ORD-10041,C350,olivia smith,olivia.smith5@outlook.com,29/09/2026,USA,Electronics,Bluetooth Speaker,39.50,4,0,158.0,Cash on Delivery,Delivered,5
+ORD-10863,C360,Ananya Taylor,,2025-12-07,United Kingdom,Home & Kitchen,Air Fryer,89.00,3,10,374.42,PayPal,Shipped,
+ORD-10044,C175,Rohan Smith,rohan.smith29@gmail.com,2026-07-21,canada,Electronics,Bluetooth Speaker,39.50,1,0,,Gift Card,delivered,2
+ORD-10369,C286,  Liam Smith ,,"Apr 01, 2026",United Kingdom,Beauty,Face Serum,24.00,1,0,24.0,Debit Card,canceled,
+ORD-10471,C182,aarav lee,aarav.lee85@outlook.com,2026-03-21,IN,Home & Kitchen,Coffee Maker,59.00,5,20%,236.0,CC,Delivered,2
+ORD-10114,C290,Hannah Sharma,hannah.sharma1@mail.com,2026-10-22,INDIA,Electronics,USB-C Charger,19.99,2,15%,27.22,PayPal,Returned,4.5
+ORD-10589,C122,lukas kumar,lukas.kumar32outlook.com,2026-05-14,India,Sports,Water Bottle,11.00,2,0,22.0,PayPal,Shipped,3
+ORD-10263,C194,Ethan Singh,ethan.singh43@mail.com,30/06/2026,United States,Home & Kitchen,Air Fryer,89.00,3,5,253.65,Debit Card,Delivered,1
+ORD-10974,,Aarav Kumar,aarav.kumar25@mail.com,2026-07-22,United States,Beauty,Shampoo,"9,99",2,15,16.98,credit card,Shipped,
+ORD-10837,C322,  Liam Patel ,liam.patel12@mail.com,2026-06-26,United Kingdom,ELECTRONICS,Wireless Earbuds,49.99,2,0,99.98,PayPal,SHIPPED,0
+ORD-10682,C348,Liam Singh,liam.singh73@mail.com,08-11-2026,,Beuty,shampoo,9.99,2,0,19.98,Credit Card,delivered,N/A
+ORD-10344,C107,ROHAN SHARMA,rohan.sharma37@mail.com,24/01/2026,United States,Electronics,Wireless Earbuds,49.99,2,0,99.98,Credit Card,SHIPPED,0
+ORD-10519,C141,Rohan Patel,rohan.patel10@gmail.com,2026-01-18,India, Clothing,Cotton T-Shirt,15.00,1,0,,PayPal,Delivered,3
+ORD-10714,C112,  Jack Davies ,jack.davies23@mail.com,05/05/2026,Canada,Electronics,Smart Watch,129.00,1,0%,129.0,credit card,Returned,3
+ORD-10021,C113,Hannah Patel,hannah.patel35@mail.com,2026-09-05,Deutschland,Sports,Water Bottle,11.00,2,20,17.6,CC,Returned,
+ORD-10596,C142,  Liam Davies ,liam.davies44gmail.com,24/06/2026,United States,Sports,Yoga Mat,22.00,2,0%,44.0,PayPal,canceled,N/A
+ORD-10543,C102,CHLOE LEE,chloe.lee75@gmail.com,2026-08-02,DE,Beuty,Shampoo,9.99,2,5,,Debit Card,SHIPPED,5
+ORD-10126,C216,Chloe Wilson,chloe.wilson48@mail.com,17/12/2025,DE,Beuty,Shampoo,9.99,4,0,39.96,Gift Card,SHIPPED,6
+ORD-10294,C262,jack davies,jack.davies66outlook.com,"Apr 29, 2026",Canada,Sports,Dumbbell Set,55.00 USD,3,5,156.75,Cash on Delivery,canceled,
+ORD-10148,C159,Noah Lee,noah.lee41@yahoo.com,07-21-2026,Canada,Clothing,Denim Jeans,45.00 USD,1,15,38.25,paypal,Pending,N/A
+ORD-10332,C100,Chloe Davies,chloe.davies56@yahoo.com,2026-05-15,US,Home & Kitchen,Throw Pillow,12.50,4,15%,42.5,UPI,SHIPPED,5
+ORD-10411,C254,  Noah Sharma ,noah.sharma78@yahoo.com,01.02.26,United Kingdom,electronics,Wireless Earbuds,$49.99,1,5%,47.49,Cash on Delivery,Delivered,4.5
+ORD-10606,C303,Hannah Kumar,hannah.kumar51@outlook.com,2025-11-02,india,Home & Kitchen,Air Fryer,89.00,5,5,422.75,Credit Card,Returned,4
+ORD-10920,C246,lukas kumar,lukas.kumar14@outlook.com,2026-05-18,United Kingdom,Clothing,Denim Jeans,45.00,1,15,38.25,paypal,Cancelled,4
+ORD-10390,C320,Chloe Brown,CHLOE.BROWN74@GMAIL.COM,2026-01-24,United States,Beauty,Face Serum,"24,0",,5,22.8,paypal,delivered,
+ORD-10211,C232,ANANYA WILSON,ananya.wilson97@mail.com,10.10.26,United States,Home & Kitchen,Knife Set,34.99,3,15,89.22,credit card,delivered,4
+ORD-10323,C291,rohan wilson,rohan.wilson94@yahoo.com,2026-04-03,DE,Beauty,Shampoo,$9.99,3,20,23.98,paypal,delivered,1
+ORD-10535,C396,Noah Sharma,noah.sharma39@yahoo.com,12/11/2025,Great Britain,Home & Kitchen,Air Fryer,$89.00,1,,NULL,Credit Card,canceled,4
+ORD-10456,C116,Rohan Singh,rohan.singh43@mail.com,24/06/2026,CA,Electronics,Smart Watch,129.00 USD,2,10,232.2,PayPal,canceled,5
+ORD-10603,C231,Priya Lee,priya.lee60@gmail.com,22/03/2026,INDIA,Sports,Water Bottle,11.00,2,0%,22.0,PayPal,SHIPPED,4
+ORD-10155,C379,,guest65@gmail.com,2025-11-24,India,Sports,Yoga Mat,22.00,3,10%,59.4,Cash on Delivery,delivered,0
+ORD-10818,C319,Priya Müller,priya.müller34@gmail.com,,United States,Sports,Water Bottle,11.00 USD,1,0,11.0,credit card,SHIPPED,
+ORD-10744,C310,AARAV SINGH,aarav.singh52@outlook.com,2026-01-18,United Kingdom,Clothing,Denim Jeans,45.00,4,10%,,credit card,delivered,4.5
+ORD-10089,C343,AARAV DAVIES,aarav.davies22@gmail.com,2026-07-02,Germany,Electronics,Bluetooth Speaker,39.50,1,10,35.55,Cash on Delivery,Delivered,0
+ORD-10382,C239,Olivia Wilson,olivia.wilson25@outlook.com,07-12-2026,India,Sports,Water Bottle,11.00,1,15%,9.35,paypal,SHIPPED,5
+ORD-10220,C126,Priya Smith,priya.smith77@yahoo.com,2025-11-17,Germany,Clothing,Hoodie,38.00,1,10,34.2,Cash on Delivery,canceled,6
+ORD-10955,C322,ROHAN SINGH,rohan.singh66@yahoo.com,"Oct 12, 2026",Canada,Clothing,Denim Jeans,$45.00,1,5%,42.75,Credit Card,delivered,
+ORD-10362,C168,Mia Wilson,mia.wilson50@gmail.com,11.07.26,Germany,Beauty,lipstick,,1,10,13.05,credit card,delivered,5
+ORD-10532,C362,  Ethan Kumar ,ethan.kumar72@outlook.com,09-18-2026,United Kingdom,Beauty,Face Serum,,1,0,24.0,PayPal,Delivered,5
+ORD-10577,C147,Jack Sharma,jack.sharma9@outlook.com,2026-01-02,United States,Home & Kitchen,Air Fryer,89.00,1,0,89.0,UPI,Pending,6
+ORD-10997,C295,Lukas Singh,lukas.singh31@mail.com,04.02.26,United States,Home & Kitchen,Throw Pillow,12.50,3,10%,33.75,UPI,Delivered,0
+ORD-10485,C213,liam smith,,08-06-2026,IN,Electronics,Smart Watch,129.00,1,0,129.0,credit card,Returned,
+ORD-10029,C378,Liam Sharma,liam.sharma89@mail.com,2025-12-09,uk,Electronics,USB-C Charger,19.99,1,10,17.99,Cash on Delivery,Returned,4
+ORD-10643,C400,Chloe Smith,,05-18-2026,USA,Electronics,Smart Watch,129.00,5,0%,645.0,PayPal,Pending,3
+ORD-10932,C233,Ananya Davies,ananya.davies47@gmail.com,2026-01-08,United States,Electronic,Bluetooth Speaker,$39.50,1,5,37.52,CC,Shipped,5
+ORD-10018,C365,Jack Smith,jack.smith81@yahoo.com,2026-09-09,Germany,Electronics,Wireless Earbuds,$49.99,1,5,47.49,PayPal,canceled,3
+ORD-10154,C261,Chloe Smith,chloe.smith20@gmail.com,2026-06-11,india,Electronics,USB-C Charger,19.99,2,15%,33.98,Gift Card,Delivered,N/A
+ORD-10064,C248,Noah Lee,,"Sep 10, 2026",United States,Home & Kitchen,Knife Set,$34.99,2,0,69.98,Debit Card,delivered,2
+ORD-10229,C245,Liam Lee,liam.lee22@mail.com,2026-06-01,canada,Home & Kitchen,Air Fryer,89.00,1,0,151.65,CC,Returned,0
+ORD-10778,C394,Liam Taylor,liam.taylor55@yahoo.com,2026-03-16,Canada,Clothing,Hoodie,38.00,5,0,190.0,paypal,canceled,4
+ORD-10170,C281,Olivia Davies,olivia.davies29@yahoo.com,2025-12-05,Germany,Sport,Yoga Mat,22.00,1,0,,Debit Card,Cancelled,3
+ORD-10086,C350,Jack Patel,jack.patel3@outlook.com,2026-13-45,Canada,CLOTHING,Running Shoes,70.00,1,0%,70.0,credit card,Returned,5
+ORD-10924,C114,Ethan Brown,ethan.brown12@mail.com,2026-05-16,United States,Electronic,USB-C Charger,19.99,2,15%,33.98,UPI,Pending,6
+ORD-10725,C400,Sofia Davies,sofia.davies81@outlook.com,2026-04-30,CA,Home&Kitchen,Throw Pillow,12.50,2,5,23.75,credit card,canceled,1
+ORD-10458,C357,Noah Johnson,noah.johnson99@mail.com,2026-08-20,India,Beauty,Face Serum,24.00,1,0%,24.0,paypal,canceled,6
+ORD-10426,,Sofia Johnson,sofia.johnson29@yahoo.com,2025-11-05,United Kingdom,Clothing,Cotton T-Shirt,15.00 USD,4,15%,51.0,UPI,Returned,4
+ORD-10242,C257,Chloe Smith,chloe.smith51@yahoo.com,,Canada,Electronics,Wireless Earbuds,49.99,2,5,94.98,CC,SHIPPED,4
+ORD-10677,C381,Sofia Sharma,sofia.sharma94@mail.com,2026-05-12,UK,Home & Kitchen,Throw Pillow,12.50,2,0%,25.0,Debit Card,Cancelled,2
+ORD-10475,C321,Rohan Taylor,rohan.taylor25@gmail.com,"Dec 15, 2025",Germany,Sports,Yoga Mat,22.00,3,20,52.8,Cash on Delivery,Delivered,5
+ORD-10621,C379,chloe wilson,chloe.wilson24gmail.com,2026-07-14,United Kingdom,Sports,Yoga Mat,22.00,4,5%,83.6,CC,Cancelled,5
+ORD-10408,C388,Rohan Taylor,rohan.taylor34gmail.com,27.12.25,DE,beauty,Lipstick,14.50,1,15,12.32,Credit Card,delivered,4
+ORD-10092,C386,PRIYA BROWN,priya.brown12@yahoo.com,16.06.26,Canada,home & kitchen,Air Fryer,89.00,1,0,92.38,Gift Card,Returned,6
+ORD-10753,C357,Olivia Smith,olivia.smith55@outlook.com,11/07/2026,Great Britain,Home & Kitchen,Air Fryer,89.00,1,5%,84.55,paypal,Cancelled,5
+ORD-10384,C322,Sofia Taylor,sofia.taylor42@yahoo.com,2026-04-18,germany,Electronic,Wireless Earbuds,49.99,1,0,49.99,UPI,Delivered,N/A
+ORD-10365,C307,  Hannah Johnson ,hannah.johnson12@mail.com,"Jun 05, 2026",United Kingdom,Sport,Water Bottle,"11,0",1,0,11.0,credit card,SHIPPED,5
+ORD-10423,C240,  Mia Singh ,mia.singh50@outlook.com,2026-08-24,Great Britain,Home & Kitchen,Air Fryer,89.00,2,10,160.2,Debit Card,Pending,3
+ORD-10070,C305,Emma Singh,emma.singh98@outlook.com,2026-03-28,Canada,Sports,water bottle,11.00,1,10,9.9,Debit Card,delivered,4
+ORD-10024,C338,CHLOE MÜLLER,,2026-07-18,India,Home & Kitchen,Throw Pillow,12.50,2,0,25.0,Cash on Delivery,delivered,
+ORD-10789,C363,Priya Wilson,priya.wilson12@yahoo.com,27/12/2025,Canada,Clothing,Cotton T-Shirt,15.00,1,15,12.75,CC,SHIPPED,6
+ORD-10886,C237,  Ethan Lee ,ethan.lee83@outlook.com,11/02/2026,Germany,Beauty,Lipstick,14.50,1,15%,12.32,UPI,Cancelled,N/A
+ORD-10937,C256,CHLOE JOHNSON,chloe.johnson85@mail.com,30/12/2025,United Kingdom,Clothing,hoodie,38.00,2,20,60.8,Cash on Delivery,Returned,5
+ORD-10945,C280,liam lee,liam.lee50@mail.com,2026-02-20,Canada,Electronics,Smart Watch,129.00,3,,387.0,PayPal,Shipped,
+ORD-10957,C334,AARAV BROWN,aarav.brown31@gmail.com,2025-12-05,Germany,Clothing,Cotton T-Shirt,15.00,1,15,12.75,UPI,Delivered,4
+ORD-10296,C213,,,2026-05-12,India,beauty,Lipstick,14.50,1,20,11.6,credit card,Delivered,N/A
+ORD-10363,C180,  Hannah Singh ,hannah.singh29@gmail.com,2026-08-10,United States,Clothing,Running Shoes,$70.00,1,20,56.0,PayPal,Cancelled,2
+ORD-10807,C367,,guest47@gmail.com,06-27-2026,U.S.A.,Electronics,Smart Watch,"129,0",3,15,328.95,CC,Delivered,4.5
+ORD-10816,C228,lukas davies,lukas.davies7@yahoo.com,2026-10-28,IN,Electronics,Smart Watch,129.00 USD,2,0,258.0,paypal,Cancelled,5
+ORD-10842,C144,Emma Wilson,emma.wilson84@outlook.com,2026-05-12,India,home & kitchen,Coffee Maker,59.00,1,5,56.05,Credit Card,Delivered,5
+ORD-10401,C163,  Mia Smith ,mia.smith14mail.com,2026-01-01,Canada,Electronics ,Wireless Earbuds,49.99,1,10%,44.99,Debit Card,Returned,
+ORD-10640,C398,Lukas Lee,lukas.lee64@yahoo.com,2026-09-27,germany,Home & Kitchen,Throw Pillow,12.50,1,15,10.62,Debit Card,canceled,3
+ORD-10560,C311,Ananya Kumar,ananya.kumar96@mail.com,2026-05-01,Canada,Sports,Dumbbell Set,55.00 USD,,10%,247.5,Credit Card,delivered,2
+ORD-10722,C134,OLIVIA DAVIES,olivia.davies37@mail.com,2026-01-29,Germany,Electronics,Wireless Earbuds,49.99,1,5,,Cash on Delivery,Shipped,3
+ORD-10466,C146,Jack Smith,jack.smith8@mail.com,08-03-2026,Great Britain,Sports,Yoga Mat,22.00,1,10,19.8,PayPal,Returned,4
+ORD-10389,C212,Sofia Taylor,,10.10.26,United Kingdom,Electronics,Bluetooth Speaker,39.50,1,0,39.5,CC,Cancelled,2
+ORD-10166,C381,Priya Wilson,priya.wilson33@outlook.com,31/01/2026,Germany,Beauty,Lipstick,14.50,3,5,41.32,Credit Card,Returned,5
+ORD-10143,C385,Emma Brown,emma.brown2@yahoo.com,"Nov 24, 2025",India,Beauty,Face Serum,24.00,4,5,91.2,Credit Card,Returned,3
+ORD-10453,C368,Emma Müller,emma.müller69@mail.com,02/09/2026,United States,Beuty,shampoo,9.99,1,0,9.99,credit card,delivered,4.5
+ORD-10010,C120,ETHAN WILSON,"ethan.wilson41@gmail,com",24/08/2026,Germany,clothing,Denim Jeans,45.00,1,0%,45.0,Gift Card,delivered,
+ORD-10866,C121,Sofia Patel,SOFIA.PATEL44@MAIL.COM,2026-09-04,United States,Beauty,Shampoo,9.99,,15,16.98,Gift Card,canceled,4.5
+ORD-10533,C270,Sofia Kumar,sofia.kumar39@yahoo.com,2026-02-14,India,Beauty,Face Serum,24.00,2,20%,38.4,paypal,delivered,4
+ORD-10693,C324,ethan johnson,ethan.johnson4@mail.com,18.10.26,India,Home & Kitchen,Throw Pillow,12.50,2,0,25.0,credit card,Delivered,N/A
+ORD-10826,C386,PRIYA SMITH,priya.smith48@outlook.com,2026-03-06,USA,Clothing,Denim Jeans,45.00,1,0%,45.0,UPI,Cancelled,4.5
+ORD-10663,C353,ETHAN SINGH,ethan.singh28@mail.com,2026-02-13,USA,Sports,Water Bottle,11.00,3,20,18.88,PayPal,SHIPPED,4
+ORD-10487,C224,Priya Johnson,"priya.johnson39@gmail,com",2026-06-28,Canada,Beauty,Lipstick,14.50,5,5,68.88,paypal,SHIPPED,3
+ORD-10623,C153,Ananya Sharma,ananya.sharma19@gmail.com,06/05/2026,Great Britain,Sports,Yoga Mat,$22.00,3,0,66.0,Debit Card,Shipped,
+ORD-10868,C200,  Liam Sharma ,liam.sharma77@mail.com,2026-01-21,Germany,Home & Kitchen,Throw Pillow,12.50,3,15,31.88,Cash on Delivery,SHIPPED,N/A
+ORD-10107,C163,chloe davies,chloe.davies68@gmail.com,08/01/2026,United Kingdom,Home & Kitchen,Knife Set,34.99 USD,1,20,NULL,paypal,delivered,2
+ORD-10573,C370,,guest79@outlook.com,N/A,United States,Clothing,Hoodie,,1,0,38.0,Credit Card,canceled,
+ORD-10146,C163,Emma Sharma,emma.sharma64@yahoo.com,10-26-2026,Deutschland,home & kitchen,Knife Set,,2,0%,69.98,Gift Card,Returned,1
+ORD-10599,C369,OLIVIA LEE,olivia.lee92@gmail.com,2026-08-23,United States,Electronics,smart watch,129.00,1,0,129.0,Cash on Delivery,Delivered,6
+ORD-10093,C270,LUKAS JOHNSON,lukas.johnson56@outlook.com,"Mar 18, 2026",Germany,Beauty,Face Serum,24.00,1,0,24.0,credit card,canceled,1
+ORD-10903,C287,Jack Singh,jack.singh55@outlook.com,2026-02-27,United States,Beauty,Lipstick,14.50,3,0,43.5,Debit Card,canceled,
+ORD-10591,C149,Ananya Lee,ananya.lee63@yahoo.com,,INDIA,Beauty,Lipstick,14.50,1,0,14.5,UPI,Returned,0
+ORD-10455,C262,Noah Lee,noah.lee24@outlook.com,2026-06-12,United States,Electronics,Smart Watch,129.00,2,0%,258.0,credit card,Cancelled,4
+ORD-10289,C242,Liam Johnson,liam.johnson59@mail.com,07/09/2026,United Kingdom,Beauty,Shampoo,9.99,3,20%,23.98,Credit Card,Pending,N/A
+ORD-10134,C373,Ananya Kumar,ananya.kumar41@yahoo.com,30/11/2025,Germany,Clothing,Denim Jeans,45.00,,0,90.0,credit card,Pending,0
+ORD-10150,C379,Olivia Singh,olivia.singh88@outlook.com,05-15-2026,united states,Clothing,Running Shoes,70.00,2,0%,140.0,UPI,Pending,5
+ORD-10340,C204,Liam Kumar,liam.kumar76@outlook.com,2026-02-19,Canada,Clothing,Cotton T-Shirt,15.00,1,0,15.0,UPI,delivered,0
+ORD-10738,C353,Emma Taylor,emma.taylor21@yahoo.com,2025-11-09,INDIA,Sports,Water Bottle,11.00,3,20,26.4,PayPal,Returned,5
+ORD-10627,C269,Ananya Davies,ananya.davies88@gmail.com,20/11/2025,United Kingdom,Home & Kitchen,Coffee Maker,59.00,1,15,50.15,Credit Card,Shipped,5
+ORD-10050,C273,EMMA SINGH,emma.singh42@yahoo.com,2026-03-29,Canada,Sports,Dumbbell Set,55.00,2,5,,PayPal,Shipped,4.5
+ORD-10580,C286,Sofia Brown,sofia.brown55outlook.com,2026-04-12,united states,Electronics,Wireless Earbuds,49.99,3,15,127.47,Cash on Delivery,SHIPPED,2
+ORD-10011,C254,noah singh,noah.singh83@outlook.com,03/03/2026,US,home & kitchen,Coffee Maker,59.00 USD,2,0%,118.0,Gift Card,Delivered,5
+ORD-10895,C396,Hannah Singh,hannah.singh44@outlook.com,2026-01-15,,Beauty,Lipstick,14.50 USD,2,0,29.0,Debit Card,Cancelled,5
+ORD-10977,C111,Chloe Patel,chloe.patel19yahoo.com,2025-11-26,United States,Sports,Dumbbell Set,$55.00,1,,52.25,credit card,Returned,
+ORD-10259,C348,  Sofia Sharma ,sofia.sharma40@mail.com,01-16-2026,Germany,Sport,yoga mat,22.00 USD,1,0,22.0,PayPal,delivered,4.5
+ORD-10915,C166,  Emma Brown ,emma.brown76yahoo.com,2026-04-11,Germany,Beauty,Shampoo,9.99,1,0,9.14,credit card,SHIPPED,4.5
+ORD-10996,C286,Noah Wilson,,2026-03-04,United Kingdom,beauty,Face Serum,24.00,1,5%,22.8,paypal,delivered,5
+ORD-10680,,aarav sharma,aarav.sharma99@gmail.com,21/12/2025,,Sports,Dumbbell Set,55.00,3,20,132.0,paypal,SHIPPED,5
+ORD-10174,C231,Mia Wilson,mia.wilson63@outlook.com,2026-09-19,canada,Electronic,USB-C Charger,19.99,1,0,19.99,credit card,Cancelled,
+ORD-10894,C144,Ethan Wilson,ethan.wilson80@outlook.com,2026-05-04,Germany,Clothing,Hoodie,$38.00,1,,32.3,Gift Card,Shipped,4.5
+ORD-10001,C103,LIAM LEE,liam.lee95@gmail.com,02-23-2026,USA,Electronics,Wireless Earbuds,49.99,2,0,99.98,paypal,delivered,4
+ORD-10167,C353,Lukas Kumar,lukas.kumar9@outlook.com,2026-01-14,United States,Beauty,Lipstick,14.50,1,0%,,Gift Card,Pending,6
+ORD-10373,C262,Ananya Johnson,ananya.johnson56@outlook.com,2026-10-19,,Home & Kitchen,Throw Pillow,12.50,1,10,11.25,Debit Card,canceled,4.5
+ORD-10222,C117,Ethan Davies,ethan.davies25@outlook.com,2026-03-04,UK,Sports,Dumbbell Set,$55.00,1,15%,46.75,UPI,Shipped,4
+ORD-10561,C312,Ananya Davies,ananya.davies58@yahoo.com,N/A,India,Beauty,Face Serum,24.00,3,0,72.0,PayPal,Pending,4
+ORD-10668,C114,NOAH JOHNSON,noah.johnson40@outlook.com,2026-06-12,India,Beauty,Shampoo,$9.99,1,0,9.99,credit card,Pending,4
+ORD-10994,C139,AARAV MÜLLER,aarav.müller32@outlook.com,"Dec 07, 2025",United States,sports,Water Bottle,11.00,1,0,13.37,Gift Card,Shipped,4
+ORD-10582,C226,NOAH SINGH,noah.singh43@outlook.com,2025-11-21,,Sports,Water Bottle,$11.00,1,5,10.45,PayPal,Delivered,
+ORD-10966,C204,Aarav Smith,aarav.smith20mail.com,2025-12-20,CA,Electronics,Smart Watch,,1,15,109.65,Gift Card,Cancelled,
+ORD-10698,C131,,guest2@yahoo.com,13/05/2026,India,Electronics ,Wireless Earbuds,49.99,1,5,47.49,Debit Card,Cancelled,4
+ORD-10691,C280,Mia Brown,mia.brown41@yahoo.com,2026-02-08,India,home & kitchen,Knife Set,$34.99,4,10,125.96,Debit Card,Cancelled,5
+ORD-10459,C141,Hannah Johnson,hannah.johnson1@outlook.com,20/01/2026,United Kingdom,Beauty,Shampoo,9.99,3,,28.47,Credit Card,delivered,
+ORD-10267,C302,Emma Smith,emma.smith7@outlook.com,12/03/2026,Germany,Beauty,Lipstick,14.50,1,,13.05,Gift Card,Delivered,
+ORD-10925,C131,  Sofia Patel ,sofia.patel35@yahoo.com,2026-13-45,Germany,SPORTS ,Yoga Mat,22.00,3,0%,66.0,UPI,Delivered,0
+ORD-10027,C344,Noah Sharma,noah.sharma17outlook.com,2026-01-31,United States,Electronics ,usb-c charger,$19.99,-1,0%,19.99,CC,Shipped,1
+ORD-10083,C223,Hannah Lee,hannah.lee81@mail.com,"Aug 30, 2026",United States,Beauty,Shampoo,9.99,1,10,8.99,Debit Card,canceled,6
+ORD-10085,C338,Hannah Patel,hannah.patel16@mail.com,2026-02-17,Canada,home & kitchen,Knife Set,34.99,5,0,174.95,CC,delivered,
+ORD-10451,C317,Lukas Sharma,lukas.sharma86@mail.com,2026-10-18,united states,home & kitchen,Coffee Maker,59.00,2,5,112.1,PayPal,Returned,2
+ORD-10840,C101,Ananya Wilson,ananya.wilson29@mail.com,31/03/2026,United Kingdom,Sports,Yoga Mat,22.00,1,20,,credit card,delivered,1
+ORD-10088,C215,Mia Lee,mia.lee23@gmail.com,2025-11-09,canada,Electronics,Smart Watch,129.00,2,0%,258.0,PayPal,Delivered,4
+ORD-10053,C271,Ethan Smith,ethan.smith23@gmail.com,2026-04-25,Germany,Electronics,Bluetooth Speaker,39.50,1,20,31.6,paypal,Pending,1
+ORD-10798,C165,EMMA SHARMA,emma.sharma78@yahoo.com,23/05/2026,,SPORTS ,Yoga Mat,22.00,1,20%,17.6,paypal,Shipped,3
+ORD-10574,C217,,guest53@gmail.com,22/06/2026,Germany,Sports,Water Bottle,11.00,1,20,8.8,paypal,Pending,N/A
+ORD-10703,C145,Chloe Smith,chloe.smith18@yahoo.com,2025-11-28,germany,CLOTHING,Running Shoes,70.00,1,0,70.0,Cash on Delivery,Cancelled,3
+ORD-10110,C161,Mia Müller,mia.müller82@gmail.com,2026-01-19,Germany,electronics,Smart Watch,129.00,1,0,129.0,Credit Card,Returned,N/A
+ORD-10419,C358,  Mia Taylor ,mia.taylor25@outlook.com,2026-07-27,IN,Sports,Yoga Mat,22.00,2,15,37.4,CC,Cancelled,2
+ORD-10625,C325,  Chloe Johnson ,chloe.johnson78@outlook.com,2026-03-30,Canada,Sports,Water Bottle,11.00,2,10,19.8,UPI,SHIPPED,1
+ORD-10468,,Liam Müller,liam.müller66@outlook.com,"Sep 20, 2026",INDIA,Home & Kitchen,Throw Pillow,12.50,2,5,23.75,CC,Returned,5
+ORD-10554,C296,Sofia Taylor,sofia.taylor23@yahoo.com,"Feb 22, 2026",united states,Electronics,Wireless Earbuds,49.99,1,5%,47.49,Credit Card,Pending,5
+ORD-10578,C134,Priya Johnson,priya.johnson89@yahoo.com,N/A,IN,Electronics,Wireless Earbuds,49.99,5,0,249.95,CC,canceled,5
+ORD-10441,C260,Ethan Davies,ethan.davies14@gmail.com,2026-07-01,Canada,Sports,Water Bottle,11.00,1,0,,UPI,Delivered,N/A
+ORD-10735,C272,aarav brown,aarav.brown41@gmail.com,02-05-2026,Canada,Beauty,Shampoo,"9,99",1,0,9.99,Debit Card,Cancelled,3
+ORD-10908,C148,liam sharma,liam.sharma17@yahoo.com,2026-03-23,Great Britain,Clothes,Running Shoes,70.00,2,0,140.0,PayPal,delivered,
+ORD-10387,C294,SOFIA JOHNSON,sofia.johnson93@outlook.com,2026-06-12,Canada,Electronics,Smart Watch,129.00,3,15%,,Debit Card,canceled,5
+ORD-10412,C325,,guest53@mail.com,16/07/2026,United Kingdom,Sports,Dumbbell Set,55.00,1,10%,49.5,PayPal,Delivered,1
+ORD-10980,C313,,guest66@yahoo.com,"Aug 02, 2026",India,Home & Kitchen,Throw Pillow,12.50,2,10,22.5,paypal,Pending,N/A
+ORD-10282,C326,Emma Brown,emma.brown97@mail.com,2026-01-27,Great Britain, Clothing,hoodie,38.00,1,10,34.2,Gift Card,Shipped,5
+ORD-10218,C118,Chloe Davies,chloe.davies75@outlook.com,10/12/2025,,Beauty,Lipstick,14.50,2,15,24.65,Cash on Delivery,Pending,4
+ORD-10467,C326,Rohan Kumar,rohan.kumar13@gmail.com,03-05-2026,US,Sports,Dumbbell Set,$55.00,1,0,58.23,CC,Delivered,2
+ORD-10669,C331,,,2026-09-21,India,Beauty,Shampoo,$9.99,3,20,23.98,CC,Pending,3
+ORD-10764,C124,,guest24@outlook.com,2026-10-12,IN,SPORTS ,Dumbbell Set,55.00,2,15%,93.5,Cash on Delivery,canceled,1
+ORD-10696,C117,Chloe Kumar,chloe.kumar29@outlook.com,2026-04-03,Canada,Electronics,Smart Watch,129.00,1,10,116.1,Credit Card,Delivered,5
+ORD-10984,C335,Chloe Patel,chloe.patel97@mail.com,10-11-2026,INDIA,sports,Dumbbell Set,55.00,3,15%,140.25,paypal,SHIPPED,5
+ORD-10802,C177,  Ananya Wilson ,ananya.wilson73@mail.com,2025-12-26,uk,Clothing,Running Shoes,70.00,1,5,66.5,paypal,Pending,3
+ORD-10005,C359,Mia Brown,mia.brown2@gmail.com,28.06.26,Canada,Sports,Yoga Mat,22.00,1,10%,19.8,Cash on Delivery,Cancelled,
+ORD-10609,C120,,guest56@yahoo.com,2026-02-20,United States,Clothing,Cotton T-Shirt,15.00,5,20,60.0,Gift Card,Delivered,4
+ORD-10571,,priya kumar,priya.kumar62@mail.com,"Oct 19, 2026",Canada,Clothing,Cotton T-Shirt,15.00,1,0,15.0,Debit Card,canceled,1
+ORD-10128,C151,Emma Singh,emma.singh71@outlook.com,05.12.25,Canada,Clothing,Running Shoes,70.00,1,15,59.5,PayPal,Pending,
+ORD-10469,C265,,guest88@yahoo.com,2026-04-05,United States,Clothing,Cotton T-Shirt,15.00,3,15%,38.25,Debit Card,Returned,
+ORD-10999,C260,Ananya Smith,ananya.smith23@gmail.com,2026-06-02,India,Home & Kitchen,Air Fryer,89.00,1,5,84.55,paypal,canceled,4.5
+ORD-10046,C179,Ananya Johnson,ananya.johnson76@outlook.com,10/05/2026,Germany,Electronics,Wireless Earbuds,49.99,1,0,49.99,PayPal,delivered,
+ORD-10783,C173,Liam Brown,liam.brown60@gmail.com,2026-01-13,Canada,Sports,dumbbell set,55.00,1,15%,,UPI,Returned,5
+ORD-10415,C384,Rohan Brown,rohan.brown85@outlook.com,2025-11-20,CA,Sports,dumbbell set,55.00,1,5,52.25,PayPal,Pending,5
+ORD-10771,C115,Mia Brown,mia.brown34@outlook.com,2026-08-25,India,Beauty,Face Serum,24.00,4,20,NULL,paypal,Shipped,0
+ORD-10099,C168,Chloe Taylor,chloe.taylor82@outlook.com,2026-03-15,Canada,Home & Kitchen,Knife Set,34.99,1,0,34.99,PayPal,Returned,
+ORD-10867,C195,Rohan Lee,rohan.lee70@outlook.com,31/12/2025,USA,Electronics,USB-C Charger,$19.99,1,15,16.99,paypal,Delivered,6
+ORD-10215,C343,Aarav Müller,aarav.müller7@gmail.com,2026-03-31,IN,SPORTS ,Water Bottle,11.00,1,0,11.0,credit card,SHIPPED,4
+ORD-10335,C174,Noah Lee,,2026-03-25,India,Beauty,Shampoo,9.99,1,15,8.49,UPI,Delivered,0
+ORD-10291,C266,Olivia Johnson,olivia.johnson68@outlook.com,2026-04-24,US,Sports,Yoga Mat,"22,0",1,0%,22.0,Cash on Delivery,SHIPPED,1
+ORD-10288,C313,Priya Brown,priya.brown39@outlook.com,2025-12-31,Great Britain,Sports,Dumbbell Set,55.00,1,0%,66.65,CC,delivered,2
+ORD-10438,C297,emma kumar,emma.kumar22@mail.com,02-19-2026,india,Clothing,Denim Jeans,45.00,1,0,45.0,Gift Card,delivered,5
+ORD-10969,C126,olivia davies,olivia.davies8@yahoo.com,2025-12-29,India,Home & Kitchen,Coffee Maker,59.00,3,5,282.36,UPI,canceled,1
+ORD-10695,,Ethan Kumar,ethan.kumar83@gmail.com,2026-10-29,U.S.A.,Beauty,Lipstick,,2,0,29.0,UPI,SHIPPED,2
+ORD-10149,C387,Liam Sharma,liam.sharma26@outlook.com,"May 15, 2026",United Kingdom,beauty,Face Serum,24.00,2,,48.0,Gift Card,SHIPPED,2
+ORD-10975,C325,Lukas Johnson,lukas.johnson78@mail.com,2026-07-04,United States,Clothing,Running Shoes,70.00,1,5,66.5,paypal,delivered,4
+ORD-10383,C137,Lukas Johnson,lukas.johnson66@outlook.com,2025-12-03,India,Clothing,Running Shoes,70.00,1,15%,59.5,Debit Card,delivered,3
+ORD-10536,C329,OLIVIA SHARMA,olivia.sharma56@mail.com,10-14-2026,United States,Electronic,USB-C Charger,19.99,1,5%,18.99,Credit Card,SHIPPED,4.5
+ORD-10978,C393,Rohan Patel,rohan.patel82@gmail.com,2026-05-28,U.S.A.,Clothes,Denim Jeans,45.00,1,0,45.0,Cash on Delivery,Delivered,4
+ORD-10638,C389,Ethan Taylor,ethan.taylor85@yahoo.com,09/10/2026,germany,Sports,Yoga Mat,22.00,2,20,35.2,Credit Card,delivered,0
+ORD-10023,C224,  Lukas Lee ,lukas.lee48@yahoo.com,2026-02-20,United States,Clothing,Hoodie,38.00,2,10,68.4,PayPal,Delivered,0
+ORD-10349,C234,Sofia Sharma,sofia.sharma44@mail.com,N/A,United States,Clothing,Running Shoes,70.00,2,20%,112.0,paypal,Cancelled,6
+ORD-10210,C191,  Priya Wilson ,priya.wilson19@outlook.com,08-05-2026,Great Britain,Sports,Water Bottle,$11.00,,0,22.0,CC,delivered,2
+ORD-10276,C144,Chloe Singh,CHLOE.SINGH12@YAHOO.COM,2026-10-20,UK,sports,Water Bottle,,1,15,9.35,CC,SHIPPED,6
+ORD-10461,C373,Emma Kumar,emma.kumar21@yahoo.com,09-25-2026,US,Clothing,Denim Jeans,45.00,5,10,202.5,Credit Card,Pending,0
+ORD-10022,C226,Priya Müller,priya.müller49@outlook.com,2026-06-21,germany,Electronics,smart watch,$129.00,1,0%,129.0,Debit Card,Cancelled,1
+ORD-10352,C150,rohan müller,rohan.müller36@yahoo.com,2026-07-29,United States,Home & Kitchen,Knife Set,34.99 USD,2,10,62.98,credit card,Pending,0
+ORD-10929,C278,Olivia Brown,olivia.brown25@gmail.com,2026-07-10,U.S.A.,Beauty,shampoo,9.99,3,0,29.97,UPI,Shipped,N/A
+ORD-10568,C282,Rohan Singh,,17/04/2026,U.S.A.,Clothes,Denim Jeans,45.00,-1,10%,40.5,Debit Card,Pending,5
+ORD-10137,C276,Liam Kumar,liam.kumar55@mail.com,2025-12-16,,CLOTHING,Denim Jeans,45.00,1,20,18.19,Gift Card,Pending,0
+ORD-10634,C159,Rohan Smith,rohan.smith89@mail.com,04-05-2026,US,Sport,Dumbbell Set,55.00,1,0,55.0,PayPal,Cancelled,3
+ORD-10790,C370,LUKAS BROWN,lukas.brown96@yahoo.com,09.04.26,Canada,electronics,Wireless Earbuds,49.99,2,0,99.98,UPI,SHIPPED,1
+ORD-10812,C268,  Jack Sharma ,JACK.SHARMA30@GMAIL.COM,2025-12-09,India,Electronics,Bluetooth Speaker,39.50,2,20,63.2,PayPal,Delivered,6
+ORD-10256,C323,Ethan Taylor,ethan.taylor41@mail.com,2025-11-11,India,SPORTS ,Water Bottle,,4,0,44.0,PayPal,Cancelled,4
+ORD-10692,C148,Aarav Wilson,,01/09/2026,Germany,SPORTS ,Yoga Mat,$22.00,2,0,44.0,Debit Card,delivered,
+ORD-10653,C328,PRIYA KUMAR,priya.kumar31@yahoo.com,11/12/2025,germany,Beauty,Shampoo,9.99,1,0,9.99,PayPal,Pending,6
+ORD-10295,C141,Sofia Taylor,sofia.taylor43@gmail.com,04-24-2026,,Home & Kitchen,Coffee Maker,59.00,2,0,118.0,PayPal,Delivered,6
+ORD-10371,C294,ananya singh,ananya.singh43@gmail.com,2026-05-23,Canada,Electronics,Wireless Earbuds,49.99,,0%,49.99,paypal,canceled,5
+ORD-10446,C322,Ethan Smith,ethan.smith2@yahoo.com,04-15-2026,india,Sports,Dumbbell Set,"55,0",2,0,110.0,UPI,Pending,
+ORD-10983,C207,Sofia Wilson,SOFIA.WILSON9@MAIL.COM,2025-11-03,Canada,Home and Kitchen,Knife Set,34.99,2,15%,59.48,Debit Card,canceled,
+ORD-10848,C371,Chloe Kumar,chloe.kumar15@outlook.com,2026-10-18,Canada,Electronics ,USB-C Charger,19.99,5,0,99.95,UPI,Pending,5
+ORD-10861,C191,Sofia Smith,sofia.smith62@outlook.com,N/A,U.S.A.,beauty,Shampoo,$9.99,1,0,NULL,PayPal,Cancelled,
+ORD-10447,C166,Aarav Patel,aarav.patel65@gmail.com,03/04/2026,India,Home&Kitchen,Knife Set,"34,99",1,5,33.24,Credit Card,Shipped,
+ORD-10646,C246,Hannah Davies,HANNAH.DAVIES67@GMAIL.COM,2026-09-30,india,Sports,yoga mat,22.00,2,5%,57.03,UPI,delivered,3
+ORD-10930,C133,Chloe Singh,"chloe.singh24@mail,com",02.09.26,CA,Home & Kitchen,Coffee Maker,"59,0",1,5,74.15,Gift Card,Pending,4
+ORD-10105,C284,Hannah Davies,hannah.davies6@gmail.com,2026-04-25,germany,home & kitchen,Coffee Maker,,2,5%,112.1,Debit Card,Delivered,4
+ORD-10380,C182,NOAH JOHNSON,noah.johnson64@outlook.com,2026-03-25,United Kingdom,beauty,lipstick,14.50,1,0%,14.5,Debit Card,Delivered,N/A
+ORD-10484,C149,Olivia Taylor,olivia.taylor59@outlook.com,23/08/2026,United States,Home & Kitchen,Coffee Maker,59.00,2,20%,94.4,Gift Card,Pending,6
+ORD-10214,C322,Jack Johnson,jack.johnson97@gmail.com,02-20-2026,United Kingdom,Beauty,Lipstick,14.50,2,0,29.0,PayPal,Delivered,N/A
+ORD-10264,C288,emma smith,emma.smith67@yahoo.com,2026-08-22,Germany,Beauty,Face Serum,24.00,2,0,48.0,UPI,Delivered,4
+ORD-10244,C225,Jack Brown,jack.brown39@mail.com,2025-11-22,germany,Clothing,Hoodie,38.00,1,5%,36.1,CC,Shipped,3
+ORD-10742,C106,Jack Patel,jack.patel95@gmail.com,2026-05-15,uk,Home & Kitchen,knife set,34.99,-2,15,59.48,Debit Card,Delivered,
+ORD-10801,C250,Ethan Singh,ethan.singh90@mail.com,2026-06-03,UK,Beauty,Face Serum,24.00,2,20,38.4,Debit Card,Delivered,4
+ORD-10530,C233,Ananya Müller,ananya.müller44@gmail.com,2025-12-18,United States,Electronics,usb-c charger,19.99,4,0%,79.96,Gift Card,Delivered,5
+ORD-10675,C343,  Lukas Wilson ,lukas.wilson9@mail.com,14/06/2026,uk,Electronics,Wireless Earbuds,49.99,2,5,94.98,Gift Card,Shipped,5
+ORD-10207,C261,Aarav Patel,"aarav.patel43@outlook,com",08-02-2026,UK,Sports,Water Bottle,11.00,2,10,19.8,PayPal,canceled,6
+ORD-10196,C389,,guest70@yahoo.com,09.04.26,United Kingdom,beauty,Face Serum,24.00,2,5,45.6,Gift Card,Shipped,6
+ORD-10420,,  Hannah Wilson ,hannah.wilson53@yahoo.com,2026-01-04,india,Beauty,Shampoo,9.99,1,20,7.99,Gift Card,canceled,5
+ORD-10748,C229,ANANYA LEE,ananya.lee56@yahoo.com,2026-04-09,UK,Beauty,Shampoo,9.99 USD,4,5%,,PayPal,Pending,4
+ORD-10784,C221,aarav sharma,,2026-09-15,,Beauty,Face Serum,24.00,1,20%,19.2,Debit Card,Shipped,1
+ORD-10525,C384,Priya Lee,priya.lee89@yahoo.com,2026-03-25,DE,Sport,Yoga Mat,22.00,2,10,39.6,UPI,Returned,5
+ORD-10182,C179,Sofia Müller,sofia.müller86@yahoo.com,2026-04-02,United Kingdom,Electronic,Wireless Earbuds,49.99,1,15%,42.49,Debit Card,canceled,0
+ORD-10435,C204,Chloe Wilson,chloe.wilson96@mail.com,01-27-2026,IN,Electronics,Wireless Earbuds,49.99,4,5,189.96,credit card,Pending,4
+ORD-10388,C224,Hannah Singh,hannah.singh86@gmail.com,27/08/2026,United Kingdom,Electronics,USB-C Charger,19.99,1,0%,19.99,UPI,Shipped,2
+ORD-10003,C128,jack müller,jack.müller46@yahoo.com,2026-09-22,United States,Clothing,cotton t-shirt,"15,0",1,5,14.25,credit card,SHIPPED,N/A
+ORD-10302,C104,  Lukas Johnson ,,2026-09-14,Canada,Sports,Dumbbell Set,55.00,1,5,52.25,Debit Card,Delivered,5
+ORD-10153,C103,Olivia Brown,olivia.brown37@gmail.com,29/12/2025,India,Electronics,Smart Watch,129.00,1,20,10320.0,UPI,SHIPPED,6
+ORD-10288,C313,Priya Brown,priya.brown39@outlook.com,2025-12-31,Great Britain,Sports,Dumbbell Set,55.00,1,0%,66.65,CC,delivered,2
+ORD-10130,C181,Liam Brown,liam.brown57@outlook.com,2026-02-25,Germany,Beauty,Lipstick,14.50,2,20,23.2,paypal,Returned,1
+ORD-10754,C257,Liam Lee,liam.lee92@yahoo.com,13/07/2026,Germany,Sports,Water Bottle,11.00,1,15,935.0,Debit Card,delivered,5
+ORD-10237,C372,Ethan Kumar,ethan.kumar90@yahoo.com,"Jul 03, 2026",uk,Home & Kitchen,Coffee Maker,$59.00,2,15,100.3,credit card,Shipped,5
+ORD-10017,C220,noah brown,noah.brown75@outlook.com,01/11/2025,Germany,Sports,Water Bottle,11.00,1,10,9.9,UPI,Returned,
+ORD-10989,C232,jack davies,,2025-11-24,IN,Home & Kitchen,Coffee Maker,59.00,1,0%,59.0,UPI,Pending,1
+ORD-10770,C170,Priya Davies,priya.davies45@yahoo.com,2026-07-10,United States,Beuty,Face Serum,24.00,2,0,48.0,CC,Shipped,N/A
+ORD-10555,C248,Priya Sharma,priya.sharma79@mail.com,"Apr 25, 2026",canada,Clothing,Hoodie,38.00,1,10,34.2,CC,Delivered,5
+ORD-10683,C102,Rohan Taylor,,12-10-2025,united states,Sports,Dumbbell Set,55.00,1,5,52.25,credit card,Returned,2
+ORD-10633,C273,Mia Singh,mia.singh42@mail.com,04-19-2026,Germany,Clothing,Running Shoes,70.00 USD,1,0,70.0,credit card,delivered,4
+ORD-10257,C228,Ananya Patel,ananya.patel12@gmail.com,25/05/2026,INDIA,Home and Kitchen,Knife Set,34.99,1,10,31.49,Gift Card,Returned,4
+ORD-10583,C276,Ethan Davies,ethan.davies53@gmail.com,2026-01-26,India,Beauty,Face Serum,24.00,2,0,48.0,paypal,Pending,4.5
+ORD-10761,C317,,guest55@mail.com,07-06-2026,india,Sports,Water Bottle,11.00 USD,4,5,41.8,Debit Card,Shipped,3
+ORD-10660,C335,Ananya Kumar,ananya.kumar46mail.com,16/12/2025,Canada,Clothing,Cotton T-Shirt,15.00,1,20,12.0,paypal,Returned,2
+ORD-10551,C332,Priya Patel,priya.patel92@outlook.com,13.07.26,Germany,Clothing,Running Shoes,70.00,1,15,44.36,Cash on Delivery,SHIPPED,4
+ORD-10238,C110,NOAH SMITH,noah.smith36@gmail.com,2026-01-31,germany,Clothing,hoodie,38.00,1,5,36.1,UPI,delivered,5
+ORD-10830,C171,priya lee,priya.lee43outlook.com,2025-12-03,USA,Electronics,USB-C Charger,19.99,1,0%,19.99,Debit Card,delivered,
+ORD-10356,C382,Aarav Davies,aarav.davies46@yahoo.com,2026-04-16,india,Clothing,Hoodie,38.00,4,0%,152.0,credit card,Pending,N/A
+ORD-10584,C227,Olivia Brown,olivia.brown64@gmail.com,10-28-2026,Germany,Home & Kitchen,Coffee Maker,59.00,2,0,118.0,paypal,Returned,0
+ORD-10172,C294,Liam Sharma,liam.sharma55@mail.com,23/08/2026,United States,Clothing,Running Shoes,"70,0",1,20,56.0,Cash on Delivery,Returned,1
+ORD-10178,C246,Hannah Kumar,hannah.kumar82@outlook.com,2026-09-22,Germany,Sports,water bottle,11.00,1,,9.35,CC,canceled,4.5
+ORD-10871,C373,,guest89@yahoo.com,2025-11-12,Germany,Clothing,Cotton T-Shirt,15.00,1,0,15.0,CC,delivered,1
+ORD-10434,C182,Sofia Wilson,sofia.wilson70@mail.com,2026-10-20,Great Britain,Home & Kitchen,Throw Pillow,12.50,4,0,,UPI,canceled,3
+ORD-10598,C176,Mia Singh,mia.singh6gmail.com,11-21-2025,India,Home & Kitchen,Air Fryer,$89.00,1,5%,84.55,credit card,delivered,2
+ORD-10444,C187,Rohan Müller,rohan.müller25@outlook.com,2026-01-11,United Kingdom,Beauty,Lipstick,$14.50,1,0,14.5,paypal,Returned,4.5
+ORD-10391,C394,Chloe Singh,chloe.singh55@yahoo.com,2025-11-26,DE,Electronics,bluetooth speaker,39.50,1,0,39.5,PayPal,Pending,1
+ORD-10392,C222,  Ethan Lee ,ethan.lee27@yahoo.com,2026-02-21,India,Clothing,Hoodie,$38.00,1,0,38.0,Debit Card,Returned,4.5
+ORD-10492,C380,Ethan Taylor,ethan.taylor33@outlook.com,15/11/2025,India,Home & Kitchen,Air Fryer,89.00,1,5,84.55,credit card,Returned,3
+ORD-10935,C247,mia kumar,mia.kumar1@mail.com,26.09.26,India,home & kitchen,Throw Pillow,12.50,,,,credit card,Cancelled,4
+ORD-10179,C239,Rohan Patel,rohan.patel71@outlook.com,2026-03-30,Canada,Home & Kitchen,Air Fryer,89.00,3,20%,213.6,Cash on Delivery,SHIPPED,
+ORD-10650,C330,lukas smith,lukas.smith33@mail.com,2026-03-09,US,Home & Kitchen,Throw Pillow,12.50,,0%,37.5,PayPal,canceled,
+ORD-10037,C317,Chloe Patel,chloe.patel75@yahoo.com,14/09/2026,India,Clothing,Cotton T-Shirt,15.00,2,5,28.5,Cash on Delivery,Cancelled,
+ORD-10180,C355,Chloe Taylor,chloe.taylor35@mail.com,2026-13-45,US,CLOTHING,Cotton T-Shirt,15.00 USD,1,0%,11.74,Credit Card,delivered,5
+ORD-10608,C113,MIA LEE,mia.lee96@yahoo.com,2025-11-24,United States,Beauty,Shampoo,$9.99,1,20,7.99,PayPal,delivered,4.5
+ORD-10592,C132,sofia patel,"sofia.patel38@mail,com","Jan 31, 2026",,Clothing,Denim Jeans,45.00,2,15,76.5,paypal,Delivered,5
+ORD-10186,C197,LUKAS DAVIES,lukas.davies72@mail.com,2025-12-11,United States,clothing,Hoodie,38.00,4,20%,121.6,Debit Card,SHIPPED,4
+ORD-10274,C336,  Mia Singh ,mia.singh7@gmail.com,2026-03-08,CA,Clothing,Denim Jeans,45.00,2,0,90.0,paypal,Delivered,1
+ORD-10745,C273,Chloe Lee,chloe.lee83@mail.com,2026-06-26,Canada,Sports,Dumbbell Set,$55.00,1,0,55.0,PayPal,Cancelled,N/A
+ORD-10679,C381,  Olivia Smith ,olivia.smith93@yahoo.com,10/05/2026,India,Electronics,Wireless Earbuds,$49.99,3,0%,149.97,Cash on Delivery,SHIPPED,6
+ORD-10393,,,guest23@outlook.com,08/10/2026,United Kingdom,Home & Kitchen,Throw Pillow,12.50,1,0,12.5,UPI,Returned,4.5
+ORD-10492,C380,Ethan Taylor,ethan.taylor33@outlook.com,15/11/2025,India,Home & Kitchen,Air Fryer,89.00,1,5,84.55,credit card,Returned,3
+ORD-10387,C294,SOFIA JOHNSON,sofia.johnson93@outlook.com,2026-06-12,Canada,Electronics,Smart Watch,129.00,3,15%,,Debit Card,canceled,5
+ORD-10958,C386,Hannah Müller,hannah.müller58@gmail.com,23/07/2026,,Sports,Water Bottle,11.00,1,5,10.45,PayPal,SHIPPED,
+ORD-10028,C150,Ananya Kumar,,16.01.26,Germany,SPORTS ,Water Bottle,11.00,2,0%,22.0,UPI,Pending,
+ORD-10982,C216,Ethan Sharma,ethan.sharma69@outlook.com,04.05.26,,Electronics,Smart Watch,129.00,1,0,129.0,Debit Card,delivered,0
+ORD-10078,C211,Mia Lee,mia.lee89@gmail.com,10-18-2026,India,Electronics,Bluetooth Speaker,39.50,1,5,37.52,PayPal,canceled,5
+ORD-10395,C278,  Lukas Sharma ,lukas.sharma95@mail.com,"May 02, 2026",U.S.A.,Beauty,Face Serum,24.00,2,0,48.0,paypal,Pending,
+ORD-10857,C148,Jack Singh,jack.singh60@mail.com,2026-07-03,United Kingdom,clothing,Running Shoes,70.00,3,15%,178.5,UPI,Shipped,
+ORD-10893,C241,  Emma Davies ,emma.davies66@mail.com,2026-05-07,Canada,Home & Kitchen,Throw Pillow,12.50,1,10,11.25,UPI,Cancelled,5
+ORD-10918,C289,Rohan Taylor,rohan.taylor46@mail.com,01-30-2026,USA,Sports,Water Bottle,11.00,2,0,22.0,Gift Card,Delivered,5
+ORD-10639,C395,Sofia Lee,sofia.lee22@gmail.com,"Sep 11, 2026",India,Clothing,Denim Jeans,45.00,1,10%,40.5,credit card,Pending,0
+ORD-10649,C289,CHLOE DAVIES,chloe.davies90outlook.com,2026-10-17,united states,Home & Kitchen,Knife Set,34.99,5,0,174.95,credit card,delivered,4
+ORD-10780,C359,Aarav Davies,aarav.davies71@gmail.com,2026-02-09,Germany,Clothing,Hoodie,38.00,,0,38.0,CC,delivered,
+ORD-10333,C117,Hannah Johnson,,14/10/2026,United States,Beuty,Shampoo,9.99,3,20,23.98,PayPal,Pending,N/A
+ORD-10308,C142,,guest75@gmail.com,2026-04-01,CA,Sports,Yoga Mat,22.00,1,0,22.0,Gift Card,Shipped,N/A
+ORD-10138,C119,Lukas Lee,lukas.lee68@outlook.com,2026-03-29,uk, Clothing,Cotton T-Shirt,$15.00,3,0,52.02,Gift Card,Delivered,2
+ORD-10785,C117,,guest61outlook.com,26/08/2026,United States,Sports,Dumbbell Set,55.00,-1,10,49.5,PayPal,Shipped,4
+ORD-10319,C106,Olivia Davies,olivia.davies99@yahoo.com,2026-10-23,India,Home and Kitchen,Air Fryer,89.00,2,15,151.3,PayPal,Pending,
+ORD-10328,C129,Rohan Wilson,rohan.wilson98@outlook.com,0000-00-00,Germany,Electronics,USB-C Charger,19.99,2,0,39.98,Credit Card,canceled,5
+ORD-10040,C112,Ethan Davies,,13/10/2026,Deutschland,Electronics,USB-C Charger,19.99,3,0,59.97,credit card,Cancelled,N/A
+ORD-10479,C179,  Olivia Davies ,olivia.davies90@gmail.com,2025-12-04,,Beauty,Face Serum,24.00,1,0%,24.0,Credit Card,Delivered,1
+ORD-10687,C155,LIAM SINGH,liam.singh70outlook.com,,united states,Clothing,Running Shoes,70.00,two,0%,102.4,paypal,Shipped,5
+ORD-10699,C169,Aarav Lee,aarav.lee74@gmail.com,06/12/2025,Germany, Clothing,running shoes,70.00,1,0%,NULL,credit card,canceled,5
+ORD-10635,C325,Sofia Davies,sofia.davies72@yahoo.com,07-26-2026,INDIA,Electronics,Smart Watch,129.00,1,0,129.0,paypal,Returned,4
+ORD-10553,,  Noah Singh ,noah.singh29@outlook.com,2026-03-22,India,Electronics,Smart Watch,129.00,5,15,548.25,Cash on Delivery,canceled,
+ORD-10636,C147,  Liam Müller ,liam.müller9@yahoo.com,2026-10-27,United Kingdom,ELECTRONICS,USB-C Charger,,1,10%,17.99,PayPal,Cancelled,1
+ORD-10198,C226,Sofia Sharma,sofia.sharma2@outlook.com,2026-02-07,United Kingdom,Beauty,Shampoo,$9.99,1,0,9.99,paypal,delivered,5
+ORD-10921,C301,ethan wilson,ethan.wilson73@mail.com,"May 21, 2026",United Kingdom,Sports,Yoga Mat,22.00,1,0%,22.0,UPI,canceled,
+ORD-10507,C323,Emma Smith,emma.smith26@gmail.com,14/03/2026,Deutschland,Home & Kitchen,Knife Set,$34.99,1,10,31.49,Debit Card,canceled,6
+ORD-10317,C185,Ananya Singh,ananya.singh32@outlook.com,2025-11-25,,Home and Kitchen,Throw Pillow,12.50,1,0,12.5,credit card,delivered,N/A
+ORD-10993,C317,LUKAS SINGH,lukas.singh84@gmail.com,2026-05-24,Canada,Electronics,USB-C Charger,19.99,2,10,35.98,PayPal,Cancelled,0
+ORD-10292,C400,OLIVIA SMITH,olivia.smith31@yahoo.com,13/03/2026,Canada,Electronics ,Smart Watch,129.00,1,0%,129.0,Gift Card,Returned,1
+ORD-10590,C374,SOFIA MÜLLER,sofia.müller33@gmail.com,02-18-2026,DE,Sports,Dumbbell Set,55.00,2,0,11000.0,UPI,Delivered,4
+ORD-10628,C300,  Jack Müller ,jack.müller24@mail.com,"Apr 25, 2026",DE,Clothing,Running Shoes,"70,0",4,0,280.0,UPI,Shipped,4.5
+ORD-10526,C198,Jack Patel,jack.patel61@gmail.com,03-02-2026,United States,Home & Kitchen,Coffee Maker,59.00,2,10,106.2,Debit Card,delivered,2
+ORD-10281,C162,JACK WILSON,jack.wilson14@yahoo.com,"Dec 23, 2025",United Kingdom,Electronics,Wireless Earbuds,49.99,3,10,134.97,paypal,Delivered,5
+ORD-10427,C157,chloe kumar,chloe.kumar45@mail.com,0000-00-00,United Kingdom,Electronics,Bluetooth Speaker,39.50,2,10,71.1,CC,delivered,4
+ORD-10345,C227,Hannah Wilson,hannah.wilson6@mail.com,"Oct 05, 2026",Canada,Sports,Water Bottle,11.00 USD,1,15%,9.35,PayPal,Pending,2
+ORD-10067,C332,AARAV SHARMA,aarav.sharma83@outlook.com,2026-08-16,Canada,Sports,water bottle,11.00,4,0,44.0,CC,SHIPPED,N/A
+ORD-10674,C269,CHLOE WILSON,chloe.wilson9@mail.com,"Nov 07, 2025",,Clothing,Cotton T-Shirt,15.00,4,0,60.0,Credit Card,Delivered,
+ORD-10953,C390,aarav patel,,23/06/2026,Germany,Electronics,Smart Watch,129.00,2,0%,258.0,PayPal,SHIPPED,0
+ORD-10528,C201,noah patel,noah.patel4@gmail.com,04-02-2026,DE,Beauty,Lipstick,14.50,3,0%,43.5,Debit Card,Returned,4
+ORD-10870,C400,Hannah Sharma,hannah.sharma6@mail.com,2026-04-19,Germany,clothing,Hoodie,38.00,2,0,76.0,Debit Card,Delivered,1
+ORD-10121,C272,,"guest23@outlook,com",2026-02-12,United Kingdom,Sports,Dumbbell Set,55.00,1,10,49.5,Debit Card,SHIPPED,5
+ORD-10094,C286,  Rohan Johnson ,rohan.johnson78@yahoo.com,2026-09-30,United Kingdom,Home & Kitchen,Throw Pillow,12.50,3,20,30.0,Gift Card,Returned,4.5
+ORD-10360,C238,,guest47@gmail.com,02.05.26,CA,Clothing,Cotton T-Shirt,15.00,1,0,15.0,Cash on Delivery,Shipped,5
+ORD-10743,C237,Emma Kumar,emma.kumar41@yahoo.com,2026-04-28,Germany,Home & Kitchen,Throw Pillow,12.50,3,15%,31.88,CC,delivered,5
+ORD-10450,C151,Priya Singh,priya.singh55@yahoo.com,18/12/2025,Germany,Clothing,Cotton T-Shirt,15.00,1,5,14.25,Credit Card,Returned,6
+ORD-10733,C258,olivia singh,olivia.singh10@yahoo.com,2026-04-17,Canada,Sports,Dumbbell Set,"55,0",1,15%,46.75,paypal,Cancelled,4.5
+ORD-10913,C380,mia singh,mia.singh14@gmail.com,05/07/2026,CA,Electronics,wireless earbuds,49.99,1,5,47.49,paypal,Cancelled,4.5
+ORD-10008,C155,  Rohan Taylor ,rohan.taylor61@mail.com,2026-08-20,United States,Beauty,Face Serum,24.00,two,15,,CC,Returned,0
+ORD-10377,C300,Noah Brown,noah.brown54yahoo.com,2026-10-04,germany,Home & Kitchen,Coffee Maker,59.00,2,0,118.0,Credit Card,SHIPPED,5
+ORD-10251,C306,Aarav Davies,aarav.davies14@mail.com,2026-01-31,U.S.A.,Electronics,Bluetooth Speaker,$39.50,4,0,158.0,CC,Pending,5
+ORD-10287,C160,Hannah Taylor,HANNAH.TAYLOR54@YAHOO.COM,19/10/2026,United Kingdom,Home & Kitchen,Throw Pillow,12.50,2,5,16.72,PayPal,delivered,
+ORD-10765,C233,,guest19@outlook.com,2026-05-07,Canada,Beauty,Shampoo,9.99,1,0%,9.99,UPI,Delivered,
+ORD-10162,C143,AARAV PATEL,AARAV.PATEL74@YAHOO.COM,2026-05-30,canada,Beauty,Face Serum,"24,0",2,15,58.56,CC,canceled,N/A
+ORD-10032,C114,Jack Wilson,jack.wilson1@mail.com,N/A,United Kingdom,Home & Kitchen,Knife Set,34.99,two,20%,27.99,Cash on Delivery,Delivered,0
+ORD-10685,C164,Lukas Sharma,lukas.sharma34@outlook.com,"Dec 09, 2025",Great Britain,Clothing,Hoodie,38.00,1,10,34.2,Credit Card,Delivered,4.5
+ORD-10686,C366,Hannah Müller,hannah.müller7@mail.com,27/10/2026,uk,Electronics,Wireless Earbuds,49.99,2,0,99.98,Gift Card,Returned,1
+ORD-10160,C234,Emma Brown,emma.brown6@yahoo.com,27/02/2026,India,Home & Kitchen,Air Fryer,$89.00,1,5%,84.55,paypal,SHIPPED,4
+ORD-10278,C400,PRIYA WILSON,priya.wilson83@mail.com,23.08.26,United States,Clothing,Cotton T-Shirt,15.00,,5%,28.5,CC,Returned,4
+ORD-10567,C302,Rohan Taylor,rohan.taylor85@gmail.com,23/01/2026,United States,Sport,Dumbbell Set,55.00,1,0,55.0,UPI,Pending,5
+ORD-10304,C245,Ananya Lee,ananya.lee52@yahoo.com,2026-04-19,United States,beauty,Lipstick,14.50 USD,1,5,13.77,Debit Card,delivered,1
+ORD-10930,C133,Chloe Singh,"chloe.singh24@mail,com",02.09.26,CA,Home & Kitchen,Coffee Maker,"59,0",1,5,74.15,Gift Card,Pending,4
+ORD-10928,C253,Emma Kumar,emma.kumar3@yahoo.com,2026-10-28,,Electronics,Bluetooth Speaker,39.50,1,0%,39.5,PayPal,Cancelled,
+ORD-10298,C122,  Mia Kumar ,mia.kumar72mail.com,"Oct 14, 2026",Germany,CLOTHING,Cotton T-Shirt,15.00,5,15%,63.75,Cash on Delivery,SHIPPED,5
+ORD-10922,C393,Lukas Johnson,lukas.johnson61@yahoo.com,2026-02-15,United States,Electronics,Wireless Earbuds,49.99,1,,47.49,PayPal,Pending,5
+ORD-10665,C381,Lukas Brown,lukas.brown14@yahoo.com,2025-12-11,CA,Beauty,Lipstick,14.50,1,0,14.5,paypal,Pending,
+ORD-10103,C301,  Noah Kumar ,NOAH.KUMAR66@GMAIL.COM,2026-03-30,Germany,Sports,Water Bottle,11.00 USD,1,15%,9.35,Cash on Delivery,SHIPPED,6
+ORD-10558,,Aarav Patel,aarav.patel10@gmail.com,"Mar 01, 2026",India,Sport,Dumbbell Set,55.00,4,0%,220.0,Gift Card,Delivered,6
+ORD-10879,C326,Chloe Smith,chloe.smith68@yahoo.com,2026-07-12,United States,Home & Kitchen,Coffee Maker,59.00,1,0%,59.0,PayPal,Cancelled,1
+ORD-10015,C323,,guest66@mail.com,06/12/2025,canada,Electronics,USB-C Charger,"19,99",1,0%,19.99,paypal,Cancelled,0
+ORD-10316,C124,Liam Sharma,,"Jan 22, 2026",Deutschland,Beauty,Face Serum,24.00 USD,1,,24.0,PayPal,SHIPPED,4
+ORD-10097,C111,HANNAH SMITH,hannah.smith94@yahoo.com,"Jun 01, 2026",India,Home & Kitchen,Air Fryer,89.00,1,0,89.0,Debit Card,Cancelled,6
+ORD-10445,C195,Priya Davies,priya.davies37@yahoo.com,2026-06-11,Canada,Sports,Water Bottle,11.00,1,15%,9.35,credit card,delivered,
+ORD-10898,C150,Hannah Davies,hannah.davies78@gmail.com,2025-12-29,India,Sports,Dumbbell Set,$55.00,2,0,110.0,Credit Card,canceled,4.5
+ORD-10190,C213,Ethan Davies,"ethan.davies2@mail,com",2026-02-25,canada,Beauty,Shampoo,9.99 USD,4,0,39.96,Debit Card,Returned,
+ORD-10252,C113,Olivia Müller,olivia.müller78@mail.com,2026-13-45,CA,Sports,Water Bottle,11.00,1,20%,,credit card,Returned,2
+ORD-10690,C322,Liam Smith,liam.smith38@yahoo.com,2026-10-17,India,Sports,Water Bottle,11.00,2,0%,22.0,UPI,Cancelled,4
+ORD-10422,C243,Noah Taylor,noah.taylor94@yahoo.com,12.06.26,Canada,beauty,Lipstick,14.50,1,20,11.6,Cash on Delivery,canceled,
+ORD-10063,,Ananya Davies,ananya.davies50@gmail.com,2026-03-01,Germany,Clothing,Hoodie,38.00,1,0,38.0,Gift Card,Shipped,2
+ORD-10236,C386,Mia Kumar,mia.kumar88@gmail.com,09-10-2026,India,Home & Kitchen,Throw Pillow,12.50,3,15%,31.88,UPI,Returned,5
+ORD-10740,C125,Rohan Smith,,"Jun 20, 2026",U.S.A.,CLOTHING,Hoodie,38.00,1,0,64.27,Credit Card,Cancelled,2
+ORD-10538,C205,Priya Müller,priya.müller58@yahoo.com,"Jan 10, 2026",India,Home & Kitchen,Throw Pillow,12.50,1,0,12.5,paypal,Shipped,3
+ORD-10632,C167,  Aarav Kumar ,aarav.kumar20@gmail.com,11-24-2025,united states,Clothing,hoodie,38.00,1,0,38.0,credit card,Returned,
+ORD-10705,C111,Hannah Sharma,hannah.sharma51yahoo.com,21/04/2026,USA,Electronics,USB-C Charger,19.99,2,5,37.98,PayPal,SHIPPED,6
+ORD-10175,C307,,guest87@mail.com,"Jan 29, 2026",Germany,Sports,water bottle,11.00,2,10%,19.8,Debit Card,delivered,N/A
+ORD-10055,C184,sofia johnson,sofia.johnson38@gmail.com,02-07-2026,Canada,CLOTHING,running shoes,70.00,4,5,266.0,credit card,Returned,0
+ORD-10175,C307,,guest87@mail.com,"Jan 29, 2026",Germany,Sports,water bottle,11.00,2,10%,19.8,Debit Card,delivered,N/A
+ORD-10662,C157,  Ananya Patel ,ananya.patel52@yahoo.com,21/08/2026,DE,SPORTS ,Water Bottle,11.00,1,10,,UPI,delivered,4
+ORD-10946,C130,OLIVIA MÜLLER,olivia.müller23@mail.com,2026-10-31,germany,beauty,Shampoo,9.99,1,5,9.49,PayPal,SHIPPED,6
+ORD-10960,C148,,guest42@mail.com,2026-08-04,Canada,Home and Kitchen,Coffee Maker,59.00,1,15,50.15,CC,delivered,5
+ORD-10136,C260,NOAH SINGH,noah.singh20@yahoo.com,30/07/2026,India,Sports,yoga mat,22.00,3,5,62.7,Cash on Delivery,Cancelled,N/A
+ORD-10990,C299,Hannah Smith,hannah.smith88@yahoo.com,24.02.26,Canada,Clothing,Hoodie,38.00,4,0,152.0,PayPal,canceled,5
+ORD-10185,C231,Noah Müller,,2026-09-10,USA,clothing,Hoodie,38.00,3,0,114.0,PayPal,Delivered,
+ORD-10759,C149,HANNAH SHARMA,hannah.sharma28@gmail.com,09/05/2026,Germany,Beauty,Face Serum,24.00,1,,22.8,UPI,canceled,5
+ORD-10012,C122,Noah Smith,noah.smith96@yahoo.com,2026-01-08,CA,Sports,Dumbbell Set,55.00,4,0,22000.0,Cash on Delivery,Returned,5
+ORD-10301,C106,Sofia Kumar,sofia.kumar80@gmail.com,30/05/2026,Germany,Home & Kitchen,throw pillow,12.50,1,10,11.25,UPI,Returned,4
+ORD-10862,C133,Sofia Brown,sofia.brown38@outlook.com,21.11.25,,Sports,Dumbbell Set,55.00,1,5,52.25,CC,SHIPPED,4
+ORD-10232,C298,hannah müller,hannah.müller15@outlook.com,2026-10-13,United Kingdom,Sports,Water Bottle,11.00,1,0,11.0,UPI,delivered,
+ORD-10673,C350,Hannah Lee,hannah.lee37@mail.com,2026-01-18,Canada,Electronics,Wireless Earbuds,49.99,1,0%,49.99,Gift Card,SHIPPED,N/A
+ORD-10491,C321,EMMA KUMAR,emma.kumar98@yahoo.com,26/09/2026,Canada,Electronics,wireless earbuds,49.99,2,20,79.98,Debit Card,Delivered,5
+ORD-10938,C290,Olivia Kumar,olivia.kumar89@outlook.com,2026-09-05,United Kingdom,Sports,water bottle,11.00,1,5,10.45,paypal,delivered,5
+ORD-10140,C146,Ananya Brown,ananya.brown26@outlook.com,02-11-2026,INDIA,Electronics ,wireless earbuds,49.99,-1,10,44.99,PayPal,Pending,N/A
+ORD-10710,C237,Noah Patel,"noah.patel5@yahoo,com",2026-03-06,India,Electronics,Smart Watch,129.00,2,0,258.0,paypal,Pending,0
+ORD-10490,C349,Hannah Brown,hannah.brown43@mail.com,22/03/2026,India,Electronics ,Wireless Earbuds,49.99,3,0,149.97,paypal,SHIPPED,6
+ORD-10030,,Ethan Kumar,ethan.kumar57@gmail.com,2026-09-01,India,Electronics,Wireless Earbuds,49.99,1,0%,49.99,Credit Card,Pending,4
+ORD-10464,C348,noah davies,NOAH.DAVIES28@OUTLOOK.COM,16/05/2026,U.S.A.,Clothing,Denim Jeans,45.00,2,20,72.0,CC,Returned,5
+ORD-10440,C240,Sofia Taylor,sofia.taylor25@gmail.com,06/11/2025,IN,Beauty,Shampoo,$9.99,1,15,8.49,Credit Card,canceled,0
+ORD-10197,C357,Ananya Müller,ananya.müller53@mail.com,"Nov 16, 2025",india,CLOTHING,Running Shoes,70.00,3,0,126.7,credit card,Returned,6
+ORD-10819,C166,Hannah Taylor,hannah.taylor44@outlook.com,2026-09-01,Germany,Beauty,Face Serum,24.00,2,10%,43.2,Credit Card,Returned,4.5
+ORD-10811,C249,hannah sharma,hannah.sharma47@gmail.com,2026-07-04,Canada,Home and Kitchen,Coffee Maker,59.00,1,0,59.0,Credit Card,Pending,4
+ORD-10221,C239,lukas brown,lukas.brown56@gmail.com,2026-05-19,Germany,Sports,Yoga Mat,22.00,1,15,18.7,PayPal,Pending,
+ORD-10212,C311,Priya Taylor,priya.taylor22@outlook.com,2025-12-28,Canada,Beauty,Shampoo,9.99,1,5,9.49,Debit Card,canceled,5
+ORD-10865,,Sofia Kumar,sofia.kumar99@yahoo.com,2026-10-15,united states,Clothing,Cotton T-Shirt,15.00,3,0,48.52,credit card,Shipped,
+ORD-10066,C373,Olivia Wilson,olivia.wilson8@gmail.com,2026-01-06,IN,SPORTS ,Water Bottle,11.00,2,20%,17.6,Debit Card,Returned,3
+ORD-10521,C133,Liam Singh,liam.singh76@outlook.com,2026-02-25,Canada,Clothing,Denim Jeans,45.00,3,20%,108.0,Credit Card,SHIPPED,4
+ORD-10411,C254,  Noah Sharma ,noah.sharma78@yahoo.com,01.02.26,United Kingdom,electronics,Wireless Earbuds,$49.99,1,5%,47.49,Cash on Delivery,Cancelled,4.5
+ORD-10992,C117,Jack Kumar,jack.kumar94@gmail.com,"Apr 27, 2026",uk,beauty,Face Serum,$24.00,1,0,24.0,Cash on Delivery,delivered,5
+ORD-10096,C328,chloe müller,chloe.müller79@gmail.com,2026-10-03,Germany,Home & Kitchen,Air Fryer,$89.00,1,0%,89.0,Gift Card,Returned,0
+ORD-10779,C221,Jack Kumar,jack.kumar89@gmail.com,"Oct 04, 2026",United Kingdom,Beauty,Shampoo,9.99,2,20%,15.98,Gift Card,canceled,2
+ORD-10809,C183,Liam Brown,liam.brown87@outlook.com,,Germany,BEAUTY,Shampoo,9.99,2,0%,19.98,Credit Card,SHIPPED,5
+ORD-10337,C322,Noah Davies,,2026-05-15,,Electronics,Bluetooth Speaker,39.50,3,15,100.72,credit card,Shipped,5
+ORD-10892,C216,noah brown,noah.brown6@yahoo.com,2026-09-12,India,Clothing,Hoodie,38.00,1,,32.3,CC,canceled,4
+ORD-10652,C202,Liam Smith,liam.smith4@gmail.com,25/05/2026,Great Britain,Sports,Dumbbell Set,55.00,1,0,55.0,CC,Pending,5
+ORD-10496,C343,Ananya Brown,ananya.brown47@yahoo.com,2026-05-06,INDIA,Sports,Dumbbell Set,55.00,2,15,93.5,UPI,delivered,6
+ORD-10472,C177,Sofia Brown,"sofia.brown76@mail,com","Jul 08, 2026",United States,Beauty,Lipstick,14.50,5,15%,61.62,UPI,Shipped,6
+ORD-10111,C288,liam müller,liam.müller35@gmail.com,2026-03-13,U.S.A.,BEAUTY,Shampoo,9.99,2,20,,PayPal,Cancelled,4.5
+ORD-10720,C281,Liam Johnson,liam.johnson92@gmail.com,2026-10-20,canada,Home & Kitchen,Coffee Maker,59.00,1,0,59.0,credit card,Cancelled,4.5
+ORD-10181,C342,Emma Wilson,emma.wilson25@outlook.com,2026-05-20,USA,Electronics,USB-C Charger,19.99,1,20%,1599.0,credit card,Returned,N/A
+ORD-10620,C204,  Mia Brown ,mia.brown76@gmail.com,08/10/2026,United Kingdom,Electronics ,USB-C Charger,19.99,999,0,19.99,paypal,canceled,1
+ORD-10626,C323,Liam Sharma,liam.sharma58@outlook.com,2026-10-03,United States,Beauty,Shampoo,9.99,1,10,8.99,Debit Card,Returned,
+ORD-10911,C176,hannah wilson,hannah.wilson1@outlook.com,2026-08-01,United Kingdom,Home & Kitchen,Throw Pillow,12.50,1,0,12.5,CC,canceled,
+ORD-10576,C318,ethan müller,ethan.müller84yahoo.com,2026-08-15,Deutschland,Electronics,USB-C Charger,$19.99,4,5,75.96,PayPal,Pending,4
+ORD-10033,C169,Lukas Smith,lukas.smith20@mail.com,"Dec 29, 2025",India,Sports,Dumbbell Set,55.00,1,20,44.0,paypal,delivered,
+ORD-10747,C345,,guest72@gmail.com,2026-08-26,India,Beauty,Shampoo,$9.99,4,0,39.96,credit card,SHIPPED,5
+ORD-10285,C389,Ethan Singh,ethan.singh15@gmail.com,04-05-2026,India,electronics,Smart Watch,129.00,1,20%,103.2,Gift Card,Cancelled,0
+ORD-10864,C241,Olivia Davies,olivia.davies78@gmail.com,N/A,United States,home & kitchen,Throw Pillow,$12.50,1,,10.62,Gift Card,Returned,4
+ORD-10139,C314,AARAV LEE,,"Nov 11, 2025",India,Sports,Yoga Mat,22.00,2,15,37.4,PayPal,Pending,
+ORD-10476,C373,  Olivia Johnson ,olivia.johnson29@outlook.com,15/04/2026,United Kingdom,Sports,Dumbbell Set,55.00,1,0%,55.0,Debit Card,delivered,3
+ORD-10552,C316,LUKAS KUMAR,lukas.kumar56@mail.com,2026-09-18,uk,Clothing,Running Shoes,$70.00,1,5%,66.5,Credit Card,Delivered,2
+ORD-10594,C157,  Noah Müller ,noah.müller28@gmail.com,16/06/2026,India,Beauty,Shampoo,9.99,1,20,7.99,Debit Card,Delivered,0
+ORD-10372,C319,  Olivia Brown ,OLIVIA.BROWN23@GMAIL.COM,2026-10-17,India,Clothing,Cotton T-Shirt,15.00,1,0,15.0,Debit Card,Cancelled,2
+ORD-10314,C222,,guest92@outlook.com,"Mar 28, 2026",United Kingdom,Beauty,Lipstick,14.50,1,0,1450.0,Gift Card,Pending,0
+ORD-10949,C319,chloe wilson,chloe.wilson88@mail.com,2026-07-10,CA,Beauty,Lipstick,14.50 USD,2,0,29.12,CC,Cancelled,5
+ORD-10846,C397,Olivia Lee,olivia.lee70@mail.com,15/08/2026,DE,Electronics,Bluetooth Speaker,39.50,1,15%,33.57,Gift Card,Shipped,1
+ORD-10439,C277,Liam Davies,liam.davies92@yahoo.com,02-18-2026,Canada,Sports,Yoga Mat,22.00 USD,4,20,70.4,Gift Card,Cancelled,4.5
+ORD-10602,C111,Liam Singh,liam.singh93@outlook.com,11-22-2025,,home & kitchen,Knife Set,34.99,3,20,83.98,credit card,Cancelled,
+ORD-10667,C240,CHLOE JOHNSON,chloe.johnson75@outlook.com,10-30-2026,,CLOTHING,Hoodie,38.00,1,5,61.25,Gift Card,SHIPPED,5
+ORD-10048,C349,Ananya Kumar,ananya.kumar7@yahoo.com,2026-04-16,canada,Beauty,Shampoo,9.99,1,0%,9.99,UPI,SHIPPED,5
+ORD-10637,C179,LUKAS MÜLLER,lukas.müller22@mail.com,"Aug 11, 2026",United States,Beuty,Shampoo,9.99,1,0,9.99,credit card,Returned,5
+ORD-10794,C384,Aarav Kumar,aarav.kumar76@outlook.com,26/11/2025,United Kingdom,Beauty,Shampoo,9.99,1,0,NULL,credit card,Returned,2
+ORD-10346,C279,Ethan Davies,ethan.davies28@outlook.com,"Nov 02, 2025",,Home & Kitchen,Throw Pillow,12.50,1,0,12.5,credit card,Delivered,5
+ORD-10755,C393,CHLOE DAVIES,chloe.davies57@outlook.com,11/06/2026,,Home & Kitchen,Coffee Maker,59.00,2,15,100.3,Gift Card,Delivered,2
+ORD-10678,C385,liam johnson,liam.johnson15@gmail.com,17.02.26,,Clothing,Cotton T-Shirt,15.00,2,10%,27.0,paypal,Shipped,N/A
+ORD-10534,C149,Lukas Wilson,"lukas.wilson86@yahoo,com",2026-07-10,United States,Beauty,Shampoo,9.99,2,0,19.98,UPI,SHIPPED,
+ORD-10410,C374,Olivia Lee,olivia.lee18@gmail.com,04/01/2026,Canada,Electronics ,Bluetooth Speaker,39.50,3,,100.72,Credit Card,Cancelled,6
+ORD-10900,C121,Olivia Wilson,olivia.wilson29@yahoo.com,11/09/2026,DE,Beauty,Shampoo,9.99,1,10,8.99,CC,Delivered,5
+ORD-10933,C173,Olivia Wilson,olivia.wilson87@outlook.com,30/05/2026,United States,Electronics ,Wireless Earbuds,"49,99",5,20%,199.96,Gift Card,Returned,3
+ORD-10791,C104,Ananya Müller,ananya.müller36@outlook.com,2026-02-10,India,Sports,Water Bottle,$11.00,2,20,17.6,UPI,canceled,3
+ORD-10009,C316,LUKAS WILSON,lukas.wilson84@gmail.com,09/12/2025,uk,Beauty,Face Serum,24.00,1,0%,24.0,Gift Card,canceled,6
+ORD-10917,C342,Noah Brown,noah.brown55@gmail.com,24/05/2026,Canada,Clothing,Denim Jeans,45.00,1,10,40.5,UPI,Pending,5
+ORD-10618,C134,Aarav Wilson,aarav.wilson96@mail.com,N/A,Germany,Beauty,Lipstick,14.50,1,0%,24.9,UPI,Shipped,N/A
+ORD-10054,C316,  Liam Müller ,,2026-10-06,U.S.A.,Home & Kitchen,coffee maker,59.00 USD,1,10,53.1,Cash on Delivery,Returned,2
+ORD-10795,C307,Chloe Brown,"chloe.brown86@gmail,com",2026-02-05,UK,Sports,Dumbbell Set,55.00,1,0,55.0,Credit Card,Shipped,0
+ORD-10223,C137,Chloe Davies,chloe.davies24@gmail.com,2026-05-12,INDIA,Electronics,wireless earbuds,49.99,3,0,149.97,paypal,delivered,5
+ORD-10944,,Liam Lee,,2025-11-12,uk,Sports,Yoga Mat,22.00,1,15,18.7,Debit Card,Cancelled,4
+ORD-10322,C321,liam lee,liam.lee55@yahoo.com,04-09-2026,IN,Sport,Yoga Mat,$22.00,1,5,20.9,CC,Delivered,
+ORD-10271,C244,Lukas Taylor,lukas.taylor35@gmail.com,2026-10-04,United States,Electronics,wireless earbuds,49.99,1,15,42.49,PayPal,SHIPPED,1
+ORD-10240,C334,  Liam Taylor ,liam.taylor24@yahoo.com,22.08.26,United States, Clothing,Denim Jeans,45.00,1,0,45.0,Gift Card,delivered,5
+ORD-10326,C190,Rohan Müller,rohan.müller35@yahoo.com,2026-09-22,,Beuty,Lipstick,$14.50,3,0,43.5,UPI,canceled,0
+ORD-10258,C311,Jack Lee,jack.lee35@mail.com,2026-10-05,United States,ELECTRONICS,USB-C Charger,19.99,2,0,39.98,Debit Card,Pending,2
+ORD-10569,C363,AARAV KUMAR,aarav.kumar25@yahoo.com,2025-12-13,Deutschland,Home & Kitchen,Air Fryer,$89.00,1,10%,80.1,Cash on Delivery,Delivered,3
+ORD-10792,C390,Hannah Patel,hannah.patel1gmail.com,,Canada,Clothing,Cotton T-Shirt,15.00,1,0%,17.57,paypal,Delivered,
+ORD-10741,C248,Rohan Brown,rohan.brown23@outlook.com,2026-09-14,United States,Sport,Yoga Mat,22.00,1,10%,19.8,Debit Card,SHIPPED,1
+ORD-10959,C264,Ananya Wilson,ananya.wilson15@gmail.com,"Jun 06, 2026",Germany,Electronics,Wireless Earbuds,49.99,1,5,,Gift Card,Cancelled,4.5
+ORD-10101,C121,  Ananya Patel ,ananya.patel36@yahoo.com,11-16-2025,United Kingdom,Beauty,Shampoo,9.99,1,10,8.99,UPI,SHIPPED,5
+ORD-10265,C204,Noah Lee,noah.lee7@mail.com,2026-02-10,canada,electronics,USB-C Charger,$19.99,4,5,75.96,Cash on Delivery,Pending,5
+ORD-10367,C147,Priya Singh,priya.singh17@gmail.com,N/A,,Home & Kitchen,Knife Set,34.99,5,10%,157.46,Debit Card,Returned,2
+ORD-10268,C234,Hannah Müller,hannah.müller17@gmail.com,11/07/2026,Canada,Sports,Yoga Mat,22.00,1,10,19.8,Cash on Delivery,delivered,5
+ORD-10896,C139,  Ethan Singh ,"ethan.singh35@mail,com",,CA,Beauty,Lipstick,14.50,3,0,43.5,UPI,canceled,4
+ORD-10586,C332,AARAV BROWN,"aarav.brown60@yahoo,com",2026-06-12,United States,clothing,Denim Jeans,45.00,1,0%,68.46,CC,Cancelled,
+ORD-10239,C182,Lukas Kumar,lukas.kumar68@mail.com,04-17-2026,CA,Beauty,Lipstick,14.50,1,,12.32,Debit Card,Returned,5
+ORD-10405,C351,  Aarav Kumar ,aarav.kumar5@gmail.com,2025-12-03,India,Clothing,Hoodie,38.00,3,5,108.3,UPI,Returned,4
+ORD-10556,C399,Ethan Sharma,ethan.sharma45@outlook.com,20/06/2026,Germany,Sports,Yoga Mat,22.00,2,0%,44.0,UPI,Delivered,3
+ORD-10947,C288,Olivia Davies,olivia.davies81@mail.com,2025-11-13,UK,Beuty,Lipstick,14.50,2,5%,27.55,PayPal,Shipped,4
+ORD-10125,C249,  Noah Davies ,noah.davies31gmail.com,2026-13-45,Canada,beauty,Lipstick,14.50,2,15,24.65,Cash on Delivery,SHIPPED,1
+ORD-10039,C251,Rohan Müller,rohan.müller12@outlook.com,11-18-2025,germany,Electronics,Wireless Earbuds,49.99,1,5%,47.49,PayPal,canceled,5
+ORD-10831,C394,Mia Patel,mia.patel33@outlook.com,2026-07-15,Canada,Home & Kitchen,Coffee Maker,59.00,1,0,59.0,UPI,Returned,N/A
+ORD-10416,C383,Liam Brown,liam.brown36@outlook.com,06-14-2026,UK,Sports,water bottle,$11.00,1,0%,11.0,Cash on Delivery,Pending,
+ORD-10193,C187,LUKAS TAYLOR,lukas.taylor27@yahoo.com,2026-04-06,Canada,Electronics,Smart Watch,129.00,2,0,258.0,Cash on Delivery,Delivered,
+ORD-10084,C400,  Liam Singh ,liam.singh27@outlook.com,07-30-2026,Germany,Electronics,Bluetooth Speaker,,5,10,177.75,CC,Cancelled,4
+ORD-10187,C265,olivia smith,olivia.smith24@mail.com,07/10/2026,United Kingdom,Electronics,Smart Watch,129.00,2,15,219.3,UPI,SHIPPED,N/A
+ORD-10721,C256,Ananya Lee,ananya.lee32@gmail.com,09-22-2026,United States,Home & Kitchen,Air Fryer,89.00,4,0%,356.0,credit card,Returned,4.5
+ORD-10714,C112,  Jack Davies ,jack.davies23@mail.com,05/05/2026,Canada,Electronics,Smart Watch,129.00,1,0%,129.0,credit card,Pending,3
+ORD-10877,C387,Rohan Müller,rohan.müller31@yahoo.com,14.11.25,United Kingdom,Electronics,Wireless Earbuds,49.99,2,0,99.98,Debit Card,SHIPPED,1
+ORD-10184,C222,Noah Kumar,"noah.kumar71@yahoo,com",2026-06-28,United Kingdom,Clothing,denim jeans,45.00,2,0,90.0,Gift Card,SHIPPED,
+ORD-10901,C152,Rohan Kumar,rohan.kumar95@yahoo.com,07-03-2026,IN,Home & Kitchen,Coffee Maker,,2,10,106.2,credit card,Delivered,1
+ORD-10952,C276,  Rohan Smith ,rohan.smith85@outlook.com,2026-13-45,UK,Home & Kitchen,Knife Set,34.99,3,0,104.97,Debit Card,delivered,1
+ORD-10613,C224,Liam Singh,liam.singh59@mail.com,"Jul 01, 2026",United States,BEAUTY,Lipstick,14.50,2,10,26.1,Gift Card,Delivered,
+ORD-10261,C257,Noah Taylor,noah.taylor76@gmail.com,2026-02-18,India,Beauty,Face Serum,24.00,1,0%,24.0,Credit Card,Delivered,5
+ORD-10852,C229,  Liam Sharma ,"liam.sharma16@mail,com",2026-07-30,United Kingdom,Beauty,Face Serum,24.00,1,0%,24.0,CC,Delivered,N/A
+ORD-10757,,  Noah Brown ,noah.brown78@yahoo.com,2025-11-15,Canada,Beauty,Shampoo,"9,99",3,10,26.97,Credit Card,Delivered,5
+ORD-10645,C250,Emma Johnson,emma.johnson6@gmail.com,26/05/2026,United States,Electronics,Wireless Earbuds,49.99,1,5,47.49,credit card,Cancelled,0
+ORD-10069,C287,Hannah Brown,hannah.brown12@mail.com,07-14-2026,uk,Clothing,Hoodie,38.00,5,5,115.47,paypal,Delivered,3
+ORD-10598,C176,Mia Singh,mia.singh6gmail.com,11-21-2025,India,Home & Kitchen,Air Fryer,$89.00,1,5%,84.55,credit card,canceled,2
+ORD-10331,C351,Liam Davies,liam.davies14@mail.com,2026-02-17,united states,Beauty,Lipstick,14.50,2,0,29.0,UPI,Shipped,3
+ORD-10189,C295,NOAH BROWN,noah.brown52@yahoo.com,2026-02-28,India,Home & Kitchen,knife set,34.99,4,0,139.96,credit card,delivered,0
+ORD-10758,C234,PRIYA WILSON,priya.wilson29@gmail.com,"Mar 10, 2026",Canada,Sports,Yoga Mat,$22.00,1,20,17.6,PayPal,delivered,
+ORD-10718,C299,  Liam Sharma ,liam.sharma61@yahoo.com,08/09/2026,uk,Clothing,Denim Jeans,45.00,4,,162.0,PayPal,Returned,1
+ORD-10615,C360,Jack Davies,jack.davies99@yahoo.com,2026-10-11,India,Sports,Dumbbell Set,55.00,3,0%,165.0,Credit Card,Returned,6
+ORD-10854,C239,  Jack Lee ,jack.lee46@outlook.com,"Jan 08, 2026",germany,Clothing,Running Shoes,70.00,1,,70.0,Gift Card,Returned,5
+ORD-10072,C131,Liam Wilson,LIAM.WILSON80@MAIL.COM,07-04-2026,Great Britain,home & kitchen,Coffee Maker,59.00,2,10%,106.2,Gift Card,delivered,5
+ORD-10279,C207,Chloe Lee,chloe.lee61@yahoo.com,11/10/2026,India,Home & Kitchen,Throw Pillow,"12,5",5,20,50.0,credit card,Pending,5
+ORD-10829,C372,Olivia Brown,olivia.brown20@mail.com,05.01.26,United States,BEAUTY,Shampoo,9.99,1,,9.49,Debit Card,Pending,3
+ORD-10449,C303,Olivia Müller,olivia.müller87@mail.com,08.01.26,CA,Clothing,Cotton T-Shirt,$15.00,1,0%,15.0,Debit Card,canceled,
+ORD-10109,C142,Olivia Müller,olivia.müller23@mail.com,19/08/2026,,Home and Kitchen,Knife Set,34.99,1,20%,27.99,Debit Card,Pending,5
+ORD-10351,C106,Priya Lee,priya.lee41@gmail.com,24/03/2026,united states,Electronics,Smart Watch,129.00,1,0%,129.0,Debit Card,delivered,4
+ORD-10907,C293,Ananya Johnson,ananya.johnson82@outlook.com,2026-13-45,United States,Home & Kitchen,Coffee Maker,59.00,5,20,236.0,PayPal,Delivered,2
+ORD-10330,C380,Olivia Taylor,olivia.taylor90@gmail.com,2026-13-45,India,Beauty,Lipstick,14.50,2,,29.0,CC,Shipped,2
+ORD-10149,C387,Liam Sharma,liam.sharma26@outlook.com,"May 15, 2026",United Kingdom,beauty,Face Serum,24.00,2,,48.0,Gift Card,SHIPPED,2
+ORD-10128,C151,Emma Singh,emma.singh71@outlook.com,05.12.25,Canada,Clothing,Running Shoes,70.00,1,15,59.5,PayPal,Pending,
+ORD-10161,C312,,guest45@mail.com,02-23-2026,canada,Home&Kitchen,Air Fryer,89.00,2,5%,169.1,CC,canceled,2
+ORD-10619,C262,PRIYA SINGH,priya.singh70@gmail.com,2026-02-12,United Kingdom,clothing,Running Shoes,$70.00,1,0,70.0,credit card,SHIPPED,4.5
+ORD-10987,C352,Mia Davies,mia.davies21@gmail.com,31.12.25,United States,Beauty,Face Serum,24.00,,10,43.2,Credit Card,delivered,2
+ORD-10751,C142,Jack Taylor,jack.taylor32@yahoo.com,2026-01-23,Canada,Beauty,Shampoo,9.99,2,5,18.98,Gift Card,SHIPPED,5
+ORD-10286,C328,Chloe Johnson,,2026-08-21,Canada,Home & Kitchen,Knife Set,$34.99,1,20,,paypal,SHIPPED,3
+ORD-10872,C299,Chloe Kumar,chloe.kumar6@outlook.com,2026-03-20,Canada,Beauty,Shampoo,9.99,2,,19.98,UPI,Pending,0
+ORD-10494,C153,  Chloe Wilson ,chloe.wilson72@yahoo.com,"Oct 25, 2026",US,Electronics,USB-C Charger,19.99,2,10%,35.98,Cash on Delivery,Shipped,3
+ORD-10157,C186,priya müller,,2026-07-08,canada,Home & Kitchen,Air Fryer,89.00,1,10,80.1,UPI,SHIPPED,5
+ORD-10127,C198,Hannah Patel,hannah.patel11@mail.com,2026-08-21,United States,Sports,Water Bottle,11.00,3,5%,31.35,paypal,Cancelled,3
+ORD-10851,C297,Chloe Sharma,chloe.sharma67@outlook.com,"Nov 16, 2025",United Kingdom,Home & Kitchen,Knife Set,$34.99,3,0,104.97,CC,SHIPPED,
+ORD-10777,C121,Emma Lee,emma.lee10@gmail.com,,Canada,Clothing,cotton t-shirt,15.00,1,0,15.0,Gift Card,Delivered,5
+ORD-10562,C387,JACK SINGH,jack.singh38@outlook.com,2026-10-01,Canada,Home & Kitchen,air fryer,89.00,1,5%,84.55,UPI,delivered,2
+ORD-10601,C120,Mia Kumar,mia.kumar86@outlook.com,"Jan 27, 2026",uk,BEAUTY,Lipstick,14.50,2,15%,24.65,paypal,Returned,2
+ORD-10613,C224,Liam Singh,liam.singh59@mail.com,"Jul 01, 2026",United States,BEAUTY,Lipstick,14.50,2,10,26.1,Gift Card,Delivered,
+ORD-10697,C247,Aarav Smith,aarav.smith92@mail.com,2026-08-08,United States,Beauty,Lipstick,14.50,1,20%,11.6,credit card,Cancelled,4
+ORD-10241,C199,Chloe Johnson,chloe.johnson94@mail.com,21/08/2026,United States,Home&Kitchen,Throw Pillow,$12.50,,20,40.0,Cash on Delivery,Cancelled,5
+ORD-10889,C178,Sofia Wilson,sofia.wilson69mail.com,12.02.26,United Kingdom,Home & Kitchen,Air Fryer,89.00,1,20,93.19,paypal,Delivered,6
+ORD-10841,C213,  Olivia Lee ,olivia.lee42@gmail.com,2025-12-17,United States,Beauty,Lipstick,14.50,4,0,58.0,Gift Card,Pending,0
+ORD-10939,C355,CHLOE WILSON,CHLOE.WILSON76@GMAIL.COM,"Jun 03, 2026",United Kingdom, Clothing,Hoodie,38.00,1,0,38.0,Credit Card,Pending,5
+ORD-10712,C246,Priya Müller,priya.müller51@outlook.com,2026-01-13,,Home & Kitchen,Coffee Maker,59.00,3,10,159.3,Cash on Delivery,Cancelled,3
+ORD-10350,C218,Ethan Wilson,ethan.wilson25@yahoo.com,2026-10-25,United Kingdom,beauty,Lipstick,14.50,3,0%,43.5,Credit Card,SHIPPED,4
+ORD-10231,C348,Jack Taylor,"jack.taylor21@gmail,com",2026-10-17,IN,Electronics,usb-c charger,19.99,1,0%,19.99,UPI,canceled,3
+ORD-10516,C353,emma johnson,emma.johnson39@mail.com,2026-05-09,United States,Sports,Dumbbell Set,55.00,4,0,NULL,paypal,Returned,
+ORD-10341,C215,Liam Singh,liam.singh41@mail.com,2026-09-06,CA,SPORTS ,Water Bottle,11.00,2,10%,19.8,UPI,SHIPPED,3
+ORD-10796,,Ananya Johnson,ananya.johnson70@gmail.com,2025-11-09,United Kingdom,Electronics,USB-C Charger,19.99,1,15,16.99,CC,Pending,3
+ORD-10529,C167,Mia Taylor,mia.taylor41@mail.com,2026-04-17,Germany,Home & Kitchen,Air Fryer,89.00,,20%,71.2,Debit Card,Returned,
+ORD-10381,C164,ROHAN WILSON,rohan.wilson67@outlook.com,2026-09-11,United Kingdom,Electronics,Smart Watch,129.00,5,5,416.75,PayPal,delivered,2
+ORD-10303,C353,Chloe Patel,chloe.patel44@yahoo.com,2026-02-11,Germany,Clothing,cotton t-shirt,15.00,1,0,15.0,UPI,Cancelled,6
+ORD-10768,C274,Ethan Singh,ethan.singh76@mail.com,2026-06-15,United States,Beauty,Shampoo,9.99 USD,1,5%,9.49,Credit Card,Delivered,4
+ORD-10366,C347,ROHAN MÜLLER,rohan.müller37@yahoo.com,2026-05-05,US,Clothing,Running Shoes,70.00,1,0%,70.0,Cash on Delivery,Delivered,
+ORD-10616,,Olivia Kumar,olivia.kumar50@gmail.com,22.07.26,United States,Beauty,Face Serum,$24.00,1,15,20.4,Credit Card,Pending,4.5
+ORD-10168,C386,Ethan Patel,ethan.patel87@gmail.com,23.07.26,United States,Clothing,Cotton T-Shirt,15.00,3,10,57.3,Cash on Delivery,Cancelled,2
+ORD-10689,C136,Priya Johnson,priya.johnson36@mail.com,2026-05-31,Germany,Beauty,Lipstick,14.50,2,0,29.0,Debit Card,delivered,
+ORD-10488,C341,sofia brown,sofia.brown52@gmail.com,2025-12-07,Canada,Sports,Yoga Mat,22.00,1,0%,22.0,PayPal,canceled,2
+ORD-10249,C194,Sofia Wilson,sofia.wilson13@gmail.com,2026-09-10,United Kingdom,Home & Kitchen,Coffee Maker,$59.00,3,20,141.6,Debit Card,delivered,5
+ORD-10058,C334,Ethan Johnson,ethan.johnson61@mail.com,2026-06-30,USA,Clothing,Cotton T-Shirt,15.00,1,20%,12.0,CC,Delivered,1
+ORD-10855,C397,Lukas Patel,lukas.patel36@mail.com,2026-06-20,United Kingdom,Electronics ,Smart Watch,129.00,4,10,464.4,Debit Card,Returned,2
+ORD-10617,C129,Aarav Taylor,aarav.taylor23@yahoo.com,04-14-2026,Germany,Electronic,Smart Watch,129.00,2,0%,258.0,Debit Card,SHIPPED,4
+ORD-10706,,Aarav Johnson,,2026-09-08,united states,Electronics,Bluetooth Speaker,"39,5",1,20,31.6,credit card,SHIPPED,5
+ORD-10318,C310,olivia singh,olivia.singh28@gmail.com,2026-08-05,Great Britain,Sports,Water Bottle,11.00,1,0,11.0,PayPal,Returned,2
+ORD-10047,C115,Sofia Singh,sofia.singh99@gmail.com,2026-08-21,IN,Sports,Dumbbell Set,55.00,-1,0,55.0,paypal,SHIPPED,3
+ORD-10869,C166,Olivia Taylor,olivia.taylor53@yahoo.com,2026-03-20,Great Britain,Electronics,Smart Watch,$129.00,2,10%,,CC,Delivered,
+ORD-10773,C399,Emma Davies,emma.davies41@gmail.com,2026-05-11,,Sports,Yoga Mat,22.00,1,20,17.6,Gift Card,Returned,
+ORD-10038,C280,  Priya Kumar ,priya.kumar90outlook.com,2026-08-20,Deutschland,Beauty,Shampoo,9.99,1,5,9.49,Cash on Delivery,Returned,6
+ORD-10593,C399,JACK SINGH,jack.singh98@yahoo.com,2026-13-45,United Kingdom,Clothing,Running Shoes,"70,0",1,0,70.0,Gift Card,Cancelled,
+ORD-10275,C335,Rohan Lee,rohan.lee86@mail.com,10/04/2026,india,Electronic,Bluetooth Speaker,39.50,4,,158.0,CC,Pending,3
+ORD-10338,C384,Olivia Wilson,"olivia.wilson68@mail,com",2025-11-11,Canada,Sports,Yoga Mat,22.00,1,15,18.7,Credit Card,Returned,0
+ORD-10540,C283,Noah Patel,noah.patel39@yahoo.com,22/10/2026,United States,Electronic,wireless earbuds,49.99 USD,1,0,49.99,Cash on Delivery,delivered,2
+ORD-10882,C310,Priya Kumar,priya.kumar56yahoo.com,01-10-2026,U.S.A.,Home & Kitchen,Coffee Maker,59.00,1,5,56.05,CC,Pending,6
+ORD-10629,C289,chloe müller,chloe.müller98@outlook.com,2026-10-17,DE,Home & Kitchen,Throw Pillow,"12,5",1,0%,12.5,Gift Card,Shipped,
+ORD-10482,C215,Priya Davies,priya.davies79@gmail.com,2026-01-05,canada,Beauty,Shampoo,9.99 USD,4,0,39.96,Cash on Delivery,delivered,
+ORD-10954,C357,Olivia Patel,olivia.patel29@yahoo.com,07.11.25,,beauty,Shampoo,9.99,3,5%,47.11,Cash on Delivery,Cancelled,N/A
+ORD-10248,,AARAV PATEL,aarav.patel85@gmail.com,2026-06-09,IN,Electronics,Wireless Earbuds,49.99,1,5%,47.49,Cash on Delivery,delivered,5
+ORD-10858,C253,  Hannah Smith ,hannah.smith7@mail.com,2025-11-03,United Kingdom,Clothing,Denim Jeans,45.00,1,0,39.13,CC,delivered,
+ORD-10942,C307,Rohan Smith,rohan.smith13@mail.com,2026-09-13,United Kingdom,beauty,Face Serum,24.00,4,15,81.6,Credit Card,SHIPPED,4
+ORD-10124,C322,  Noah Sharma ,noah.sharma14@gmail.com,2025-11-18,germany,Clothing,Hoodie,$38.00,1,20,52.45,UPI,Cancelled,3
+ORD-10432,C155,Rohan Taylor,rohan.taylor55@gmail.com,2026-10-02,Germany,Home & Kitchen,Throw Pillow,12.50,1,0%,12.5,Credit Card,SHIPPED,5
+ORD-10200,C183,Ethan Wilson,,11-28-2025,canada,Beauty,Face Serum,$24.00,1,10,21.6,PayPal,canceled,2
+ORD-10708,C177,liam taylor,LIAM.TAYLOR22@MAIL.COM,2026-05-12,USA,Home & Kitchen,Air Fryer,89.00,1,10,80.1,Gift Card,Delivered,5
+ORD-10822,C321,Hannah Müller,hannah.müller5@outlook.com,,uk,Electronics,Bluetooth Speaker,39.50,4,5%,150.1,Credit Card,SHIPPED,4
+ORD-10228,C264,Jack Smith,jack.smith22@gmail.com,"Apr 07, 2026",USA,CLOTHING,Cotton T-Shirt,15.00,1,0,15.0,Credit Card,Returned,
+ORD-10399,C306,Lukas Sharma,,30/05/2026,United Kingdom,BEAUTY,Shampoo,9.99,1,5,,Gift Card,canceled,4.5
+ORD-10118,C369,Priya Patel,priya.patel36@outlook.com,2026-01-28,Great Britain,Beauty,Face Serum,24.00,1,5,22.8,Gift Card,Delivered,5
+ORD-10176,C140,Noah Kumar,noah.kumar35@mail.com,2026-10-30,India,Clothing,Running Shoes,"70,0",1,0%,70.0,PayPal,Shipped,0
+ORD-10713,C185,Noah Müller,noah.müller28@gmail.com,2025-12-30,DE,Clothing,Denim Jeans,45.00,-4,20,144.0,credit card,canceled,
+ORD-10700,C336,Emma Johnson,emma.johnson76@mail.com,,germany,Home & Kitchen,Throw Pillow,"12,5",-1,10,11.25,Debit Card,Delivered,3
+ORD-10815,C216,aarav taylor,,2025-12-23,Germany,Clothing,Cotton T-Shirt,15.00,1,5,14.25,CC,Pending,5
+ORD-10194,C334,Chloe Brown,chloe.brown85@outlook.com,18/05/2026,U.S.A.,Beauty,Lipstick,14.50,4,0,58.0,Credit Card,Cancelled,3
+ORD-10357,C196,Priya Johnson,priya.johnson12@mail.com,2026-06-11,United Kingdom,Clothing,hoodie,38.00,1,0%,38.0,UPI,canceled,4.5
+ORD-10506,C193,Jack Singh,jack.singh25@mail.com,2026-06-01,United States,Clothing,Running Shoes,70.00,1,0%,70.0,Cash on Delivery,SHIPPED,6
+ORD-10437,C296,  Rohan Lee ,rohan.lee80@mail.com,2026-06-07,Canada,ELECTRONICS,USB-C Charger,$19.99,1,20%,15.99,Cash on Delivery,canceled,
+ORD-10079,C129,Aarav Wilson,aarav.wilson26@yahoo.com,28/12/2025,Canada,Sports,Water Bottle,11.00,1,10,9.9,Cash on Delivery,Delivered,5
+ORD-10512,C311,Rohan Patel,rohan.patel94@outlook.com,2026-02-06,Canada,Sports,Yoga Mat,22.00,1,15,18.7,Gift Card,Returned,4.5
+ORD-10014,C335,HANNAH SINGH,hannah.singh95@outlook.com,2026-01-30,Germany,Clothing,Denim Jeans,45.00,5,20%,180.0,UPI,Cancelled,4
+ORD-10844,C362,CHLOE PATEL,chloe.patel52@mail.com,2026-06-14,United States,Clothing,Cotton T-Shirt,15.00,1,15,12.75,paypal,delivered,2
+ORD-10659,C344,Ananya Davies,ananya.davies21@mail.com,17/12/2025,canada,Sports,yoga mat,22.00,1,5,20.9,Credit Card,delivered,N/A
+ORD-10213,C257,Rohan Singh,rohan.singh56@outlook.com,,Great Britain,Beauty,Face Serum,24.00,1,20,19.2,paypal,delivered,4.5
+ORD-10782,C222,Rohan Sharma,rohan.sharma46@mail.com,"Dec 14, 2025",united states,Electronics ,USB-C Charger,19.99,3,0%,59.97,Credit Card,canceled,5
+ORD-10117,C121,Sofia Singh,sofia.singh81@gmail.com,06.01.26,India,Electronics,wireless earbuds,,3,0,149.97,paypal,SHIPPED,6
+ORD-10049,C323,Ananya Johnson,,2026-02-17,Germany,Sports,Yoga Mat,22.00,1,0,,credit card,SHIPPED,4.5
+ORD-10715,C365,Olivia Singh,olivia.singh53@yahoo.com,23/08/2026,US,CLOTHING,hoodie,38.00,1,0,38.0,Credit Card,Returned,5
+ORD-10171,C352,jack brown,jack.brown26@yahoo.com,"Mar 04, 2026",india,BEAUTY,Lipstick,14.50,-1,15,12.32,Cash on Delivery,canceled,5
+ORD-10544,C314,rohan taylor,,2026-10-16,Great Britain,Electronics,Smart Watch,129.00,1,0%,129.0,Gift Card,SHIPPED,N/A
+ORD-10402,C105,Sofia Taylor,sofia.taylor38@gmail.com,07/08/2026,Germany,Clothing,denim jeans,45.00,2,15,76.5,CC,Delivered,2
+ORD-10055,C184,sofia johnson,sofia.johnson38@gmail.com,02-07-2026,Canada,CLOTHING,running shoes,70.00,4,5,266.0,credit card,Cancelled,0
+ORD-10600,C132,Hannah Wilson,hannah.wilson95@gmail.com,2026-01-03,India,Electronics,Bluetooth Speaker,39.50,1,10%,35.55,PayPal,Returned,4
+ORD-10909,C350,NOAH BROWN,noah.brown22@yahoo.com,01-01-2026,IN,Clothing,Running Shoes,70.00,1,5,,PayPal,delivered,
+ORD-10595,C145,Sofia Sharma,sofia.sharma78@gmail.com,2026-01-04,canada,Sports,Yoga Mat,22.00 USD,2,0,44.0,PayPal,SHIPPED,6
+ORD-10664,C121,Noah Sharma,noah.sharma54@mail.com,2026-03-29,Germany,Home & Kitchen,Air Fryer,89.00,4,15%,302.6,Credit Card,SHIPPED,6
+ORD-10605,C293,Ananya Wilson,ananya.wilson68gmail.com,2026-05-28,UK,Home and Kitchen,Throw Pillow,12.50,1,10,11.25,CC,Pending,1
+ORD-10728,C278,,guest21@yahoo.com,05.11.25,United Kingdom,Electronic,Smart Watch,129.00,2,15,219.3,paypal,Cancelled,5
+ORD-10707,C256,Sofia Lee,sofia.lee20@gmail.com,16/05/2026,Germany,Beauty,Shampoo,9.99,5,,49.95,UPI,SHIPPED,5
+ORD-10874,C392,Ananya Smith,"ananya.smith47@gmail,com",2026-04-30,United Kingdom,BEAUTY,Shampoo,9.99,1,0,9.99,Cash on Delivery,Pending,5
+ORD-10539,C154,Aarav Brown,aarav.brown86@yahoo.com,2026-08-22,India,Sports,Water Bottle,11.00,1,0,11.0,Debit Card,Cancelled,5
+ORD-10217,C243,Rohan Taylor,rohan.taylor31@outlook.com,2025-11-04,,home & kitchen,coffee maker,59.00,1,10,53.1,PayPal,Cancelled,0
+ORD-10914,C247,ethan lee,"ethan.lee52@gmail,com",01-31-2026,Great Britain,Clothing,Cotton T-Shirt,15.00,1,,15.0,Debit Card,Delivered,4.5
+ORD-10860,C248,Hannah Sharma,hannah.sharma48@mail.com,"Aug 07, 2026",united states,Sports,water bottle,11.00,1,10%,9.9,UPI,Pending,5
+ORD-10588,C317,Ananya Patel,ananya.patel86@yahoo.com,2026-03-10,canada,Sports,Yoga Mat,22.00,1,0%,22.0,UPI,SHIPPED,4
+ORD-10091,C294,  Aarav Davies ,aarav.davies58@mail.com,04-17-2026,Canada,Sports,Water Bottle,11.00,5,5,52.25,paypal,delivered,2
+ORD-10073,C278,,guest46@outlook.com,24/06/2026,United Kingdom,Beauty,Lipstick,14.50,1,0,14.5,Cash on Delivery,Pending,5
+ORD-10520,C377,Olivia Müller,olivia.müller25@mail.com,11/12/2025,Germany,Beauty,Lipstick,14.50,1,0%,10.56,PayPal,Shipped,4
+ORD-10575,C126,SOFIA SINGH,sofia.singh7@gmail.com,2026-06-19,India,Electronics,USB-C Charger,$19.99,1,20,15.99,Gift Card,Pending,6
+ORD-10936,C297,Ananya Wilson,ananya.wilson13@outlook.com,2026-01-04,Canada,Home & Kitchen,Air Fryer,89.00,2,20%,142.4,Gift Card,Delivered,
+ORD-10500,C135,Emma Müller,emma.müller13outlook.com,N/A,canada,beauty,Face Serum,24.00,1,15%,34.2,CC,Returned,
+ORD-10224,C109,Lukas Smith,lukas.smith26@mail.com,"Jan 31, 2026",Deutschland,electronics,Smart Watch,129.00,5,0%,645.0,Credit Card,Delivered,4
+ORD-10421,C155,aarav lee,aarav.lee10@yahoo.com,,Canada,Electronics,usb-c charger,19.99,3,20,47.98,credit card,canceled,5
+ORD-10624,C119,,guest51@mail.com,"Dec 08, 2025",United States,Sports,Water Bottle,11.00,3,0,33.0,UPI,SHIPPED,3
+ORD-10313,C226,olivia patel,olivia.patel27@outlook.com,2025-12-06,Deutschland,Electronics,USB-C Charger,19.99,2,,37.98,CC,canceled,2
+ORD-10612,C172,Liam Müller,liam.müller38@gmail.com,03-08-2026,India,Sports,Dumbbell Set,55.00,2,10%,99.0,Gift Card,Delivered,4
+ORD-10429,,lukas lee,lukas.lee82@gmail.com,2026-03-18,germany,Beauty,Shampoo,$9.99,1,0,9.99,credit card,delivered,0
+ORD-10106,C296,OLIVIA DAVIES,olivia.davies13@gmail.com,2026-02-28,USA,Beauty,Lipstick,$14.50,1,15%,12.32,PayPal,delivered,5
+ORD-10425,C119,Emma Johnson,emma.johnson94@gmail.com,2026-03-15,United States,ELECTRONICS,Bluetooth Speaker,39.50,4,5,150.1,Gift Card,delivered,0
+ORD-10772,C289,Emma Brown,emma.brown44@gmail.com,2026-08-03,United States,Electronics,USB-C Charger,19.99,2,5,37.98,paypal,SHIPPED,5
+ORD-10888,C231,  Lukas Singh ,lukas.singh1@gmail.com,"Mar 11, 2026",DE,Home & Kitchen,Air Fryer,89.00,two,0%,445.0,Gift Card,canceled,2
+ORD-10763,C337,Emma Johnson,emma.johnson77gmail.com,2026-02-20,United Kingdom,Clothing,Running Shoes,70.00,1,0,70.0,Cash on Delivery,Cancelled,N/A
+ORD-10183,C120,,,2026-09-17,Great Britain,Electronics,Smart Watch,129.00,4,20%,412.8,Cash on Delivery,canceled,3
+ORD-10838,C123,hannah lee,hannah.lee23@mail.com,12-30-2025,Germany,Home & Kitchen,Knife Set,34.99,,0,139.96,PayPal,canceled,4
+ORD-10460,C115,Chloe Smith,chloe.smith3@mail.com,2026-06-30,United Kingdom,Sports,Yoga Mat,22.00,1,15,18.7,UPI,canceled,4
+ORD-10361,C270,Liam Singh,,2026-04-13,Germany,ELECTRONICS,USB-C Charger,"19,99",3,0,59.97,UPI,SHIPPED,5
+ORD-10853,C130,Ananya Davies,ananya.davies19@outlook.com,2026-04-01,,ELECTRONICS,USB-C Charger,19.99,1,15%,16.99,CC,Delivered,
+ORD-10376,C279,Emma Taylor,emma.taylor80@gmail.com,2026-13-45,,Electronics,Wireless Earbuds,49.99,2,10,89.98,paypal,Delivered,5
+ORD-10979,C229,Ananya Davies,ananya.davies40@mail.com,18.12.25,Canada,Home & Kitchen,Throw Pillow,12.50,999,15,42.5,credit card,Shipped,5
+ORD-10473,C335,Noah Wilson,NOAH.WILSON38@GMAIL.COM,2026-10-05,United States,Beauty,Face Serum,24.00,1,10,21.6,Cash on Delivery,Pending,5
+ORD-10611,C333,Ananya Kumar,ananya.kumar80@mail.com,2026-05-26,Canada,Beauty,Shampoo,9.99,2,0,19.98,Debit Card,delivered,6
+ORD-10173,C321,priya müller,priya.müller55@yahoo.com,"Sep 10, 2026",India,Sports,Dumbbell Set,55.00,1,5,52.25,Debit Card,canceled,6
+ORD-10960,C148,,guest42@mail.com,2026-08-04,Canada,Home and Kitchen,Coffee Maker,59.00,1,15,50.15,CC,delivered,5
+ORD-10849,C126,CHLOE LEE,chloe.lee93@gmail.com,2026-10-22,,Clothing,Cotton T-Shirt,15.00,2,20%,24.0,Cash on Delivery,Returned,
+ORD-10205,C244,NOAH PATEL,noah.patel4@mail.com,2026-10-29,United States,Beauty,face serum,24.00,999,0,96.0,Cash on Delivery,delivered,N/A
+ORD-10418,C394,Aarav Smith,aarav.smith41@outlook.com,30/08/2026,,Clothing,Running Shoes,70.00,1,0%,70.0,Gift Card,Shipped,4
+ORD-10097,C111,HANNAH SMITH,hannah.smith94@yahoo.com,"Jun 01, 2026",India,Home & Kitchen,Air Fryer,89.00,1,0,89.0,Debit Card,Cancelled,6
+ORD-10250,C383,emma müller,emma.müller15@yahoo.com,2026-05-28,India,Beuty,Shampoo,9.99,1,0,9.99,paypal,Cancelled,4.5
+ORD-10883,C260,Mia Patel,mia.patel90@mail.com,2025-12-24,Canada,Home & Kitchen,Throw Pillow,$12.50,2,0,25.0,UPI,Returned,
+ORD-10417,C308,SOFIA MÜLLER,,"Sep 04, 2026",united states,Electronics,Smart Watch,129.00,2,0,332.58,Cash on Delivery,Delivered,5
+ORD-10321,C188,Aarav Davies,aarav.davies88@yahoo.com,04/08/2026,Germany,Clothing,Running Shoes,$70.00,1,0,70.0,UPI,Cancelled,4
+ORD-10724,C194,Sofia Lee,sofia.lee80@mail.com,2026-08-20,Canada,Electronics,USB-C Charger,19.99,1,0%,19.99,Credit Card,canceled,2
+ORD-10532,C362,  Ethan Kumar ,ethan.kumar72@outlook.com,09-18-2026,United Kingdom,Beauty,Face Serum,,1,0,24.0,PayPal,Delivered,5
+ORD-10981,C320,Ananya Taylor,ananya.taylor68mail.com,0000-00-00,Canada,SPORTS ,Dumbbell Set,55.00,1,0,55.0,Credit Card,delivered,4
+ORD-10875,C368,  Lukas Kumar ,lukas.kumar91@mail.com,07/04/2026,INDIA,Electronics,USB-C Charger,19.99,1,0%,19.99,paypal,Pending,0
+ORD-10702,C210,Ethan Kumar,ethan.kumar73@mail.com,2025-12-12,Deutschland,Clothing,Running Shoes,$70.00,two,10,63.0,Debit Card,canceled,
+ORD-10821,C136,Liam Sharma,liam.sharma96@mail.com,2026-01-31,,Sports,Yoga Mat,22.00,1,20,,Credit Card,Cancelled,5
+ORD-10648,C244,Emma Müller,emma.müller62@yahoo.com,2026-06-05,INDIA,Electronics,USB-C Charger,19.99,5,0,99.95,PayPal,delivered,3
+ORD-10433,C310,,,2025-12-26,uk, Clothing,Hoodie,38.00,1,10,34.2,Debit Card,Delivered,6
+ORD-10052,C392,Noah Brown,noah.brown46@gmail.com,20/09/2026,DE,clothing,Hoodie,38.00,1,5,36.1,CC,Returned,1
+ORD-10158,C359,Hannah Taylor,hannah.taylor46@outlook.com,19/04/2026,US,Home & Kitchen,Knife Set,34.99 USD,1,15%,,paypal,Cancelled,2
+ORD-10887,C304,AARAV WILSON,,2026-01-01,germany,Electronics,Bluetooth Speaker,39.50,1,5,37.52,credit card,canceled,N/A
+ORD-10020,C103,Liam Patel,"liam.patel20@yahoo,com",10.01.26,DE,home & kitchen,Knife Set,34.99,4,,139.96,paypal,SHIPPED,
+ORD-10209,C160,  Emma Sharma ,emma.sharma6@gmail.com,2026-07-26,,Electronics,Bluetooth Speaker,39.50,1,20%,31.6,PayPal,Delivered,6
+ORD-10195,C301,Aarav Müller,aarav.müller46@outlook.com,20/01/2026,canada,Sports,Dumbbell Set,55.00,1,5%,52.25,paypal,Cancelled,3
+ORD-10729,C245,  Ethan Patel ,ethan.patel33@gmail.com,2026-03-30,India,Home & Kitchen,Knife Set,34.99,3,20%,83.98,paypal,Pending,4
+ORD-10856,C179,Liam Johnson,liam.johnson73yahoo.com,18/05/2026,Germany,Electronics,Smart Watch,129.00,1,10%,116.1,Gift Card,Cancelled,
+ORD-10688,C267,aarav kumar,aarav.kumar6@gmail.com,14/06/2026,Germany,Electronics ,Smart Watch,129.00,1,20,103.2,Debit Card,canceled,6
+ORD-10839,C200,Aarav Smith,aarav.smith64@yahoo.com,2026-06-14,UK,home & kitchen,Knife Set,34.99,1,10,31.49,Cash on Delivery,canceled,5
+ORD-10572,C222,Jack Müller,jack.müller42@mail.com,2026-10-30,Canada,Beauty,Lipstick,"14,5",5,20%,58.0,Cash on Delivery,Cancelled,1
+ORD-10227,C350,,guest44@gmail.com,19/06/2026,United Kingdom,Beauty,Lipstick,14.50,5,20%,58.0,Credit Card,Cancelled,1
+ORD-10255,C186,Priya Lee,priya.lee98@outlook.com,2026-05-07,DE,ELECTRONICS,Wireless Earbuds,49.99,2,0,,CC,SHIPPED,4
+ORD-10066,C373,Olivia Wilson,olivia.wilson8@gmail.com,2026-01-06,IN,SPORTS ,Water Bottle,11.00,2,20%,17.6,Debit Card,Returned,3
+ORD-10219,C177,Chloe Brown,chloe.brown80@gmail.com,27/11/2025,US,Electronics,Bluetooth Speaker,39.50 USD,2,,71.1,Debit Card,Pending,3
+ORD-10277,C383,Lukas Taylor,lukas.taylor58@yahoo.com,,Canada,Electronics,Wireless Earbuds,$49.99,1,0,49.99,CC,canceled,
